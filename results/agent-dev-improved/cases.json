@@ -1,0 +1,253 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "What was the debt-to-income ratio of IDA-eligible countries in 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 21,
+        "evidence": "Their debt-to-income ratio fell\nfrom 42.1 percent to 41.2 percent, as economic growth outpaced debt\naccumulation"
+      }
+    ],
+    "expected_answer": "41.2 percent (fell from 42.1 percent)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What was the total external borrowing level of LMICs at the end of 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 27,
+        "evidence": "LMICs’ external\nborrowing levels reached a record $9.4 trillion at the end of the year, increasing\n5.5 percent from $8.9 trillion in 2024."
+      }
+    ],
+    "expected_answer": "$9.4 trillion (increased 5.5 percent from $8.9 trillion in 2024)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Excluding China, what was the debt-to-income ratio for LMICs in the Key Takeaways overview?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 21,
+        "evidence": "Excluding China,\nLMICs saw their debt-to-income ratio rise to 34.5 percent, as debt grew faster\nthan national income."
+      }
+    ],
+    "expected_answer": "34.5 percent",
+    "filter": {
+      "chapter": "Key Takeaways"
+    },
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Excluding China, by how much did the cumulative external debt stock of MICs increase in 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 31,
+        "evidence": "When China is excluded, the cumulative external debt stock of MICs increased\nat a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025."
+      }
+    ],
+    "expected_answer": "Increased by 9.1 percent, to $6.9 trillion in 2025",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Which borrower led the increase in borrowing levels in 2025 among MICs other than China?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 31,
+        "evidence": "led by a 29.2 percent\nincrease in Ukraine’s debt stock, to $250.3 billion"
+      }
+    ],
+    "expected_answer": "Ukraine, with a 29.2 percent increase to $250.3 billion",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Over the past ten years, by approximately what percentage has LMIC external debt expanded?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 27,
+        "evidence": "LMIC external debt has grown about\n60 percent over the past decade"
+      }
+    ],
+    "expected_answer": "About 60 percent",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What percentage of all LMIC external debt is accounted for by the 10 largest LMIC borrowers other than China?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 31,
+        "evidence": "These borrowers\naccount for 59.5 percent of all LMIC external debt."
+      }
+    ],
+    "expected_answer": "59.5 percent",
+    "filter": {
+      "chapter": "Chapter 1"
+    },
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Did the 2025 increase in LMIC external debt represent the largest rise since the COVID-19 pandemic?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 27,
+        "evidence": "and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic"
+      }
+    ],
+    "expected_answer": "Yes, the 2025 increase was the largest since the easing of the COVID-19 pandemic.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Why did the external debt burdens of IDA-eligible countries decline slightly despite a sharp increase in borrowing?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 21,
+        "evidence": "as economic growth outpaced debt\naccumulation, and some countries benefited from debt restructuring."
+      }
+    ],
+    "expected_answer": "Economic growth outpaced debt accumulation, and some countries benefited from debt restructuring.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What global factors put substantial pressure on the external debt positions of LMICs in 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 27,
+        "evidence": "Renewed global inflationary pressures, geopolitical tensions, and decreased\nfiscal space continued to put substantial pressure on the external debt positions\nof low- and middle-income countries (LMICs) in 2025."
+      }
+    ],
+    "expected_answer": "Renewed global inflationary pressures, geopolitical tensions, and decreased fiscal space.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "What was the borrowing level of LMICs in 2024 before reaching $9.4 trillion in 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 27,
+        "evidence": "increasing\n5.5 percent from $8.9 trillion in 2024."
+      }
+    ],
+    "expected_answer": "$8.9 trillion",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "How many of the 10 largest LMIC borrowers other than China recorded double-digit increases in borrowing in 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 31,
+        "evidence": "Half of them recorded\ndouble-digit increases in their borrowing levels in 2025"
+      }
+    ],
+    "expected_answer": "Half of them (5 countries)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Has an increase of 9.1 percent in MIC external debt stock (excluding China) occurred in recent years prior to 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 31,
+        "evidence": "An\nincrease of that magnitude has not been seen since 2017"
+      }
+    ],
+    "expected_answer": "No, an increase of that magnitude had not been seen since 2017.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Did debt grow faster or slower than national income in LMICs when China is excluded?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 21,
+        "evidence": "as debt grew faster\nthan national income."
+      }
+    ],
+    "expected_answer": "Faster than national income",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What was the debt-to-income ratio of IDA-eligible countries prior to falling to 41.2 percent in 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 21,
+        "evidence": "Their debt-to-income ratio fell\nfrom 42.1 percent to 41.2 percent"
+      }
+    ],
+    "expected_answer": "42.1 percent",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_unans_dev_01",
+    "split": "dev",
+    "question": "What was the exact external debt stock of Vietnam at the end of 2025 according to the report?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "expected_answer": "Không đủ bằng chứng để trả lời trong tài liệu.",
+    "gold": [],
+    "absence_reason": "Báo cáo chỉ thống kê tổng thể LMICs/MICs và một số nước lớn (Trung Quốc, Ukraine), không có số liệu cụ thể của Việt Nam."
+  },
+  {
+    "id": "q_unans_dev_02",
+    "split": "dev",
+    "question": "What exact benchmark interest rate was decided by the Federal Reserve in December 2025?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "expected_answer": "Không đủ bằng chứng để trả lời trong tài liệu.",
+    "gold": [],
+    "absence_reason": "Báo cáo chỉ đề cập áp lực lạm phát và điều kiện tài chính toàn cầu nói chung, không chứa quyết định lãi suất của Fed."
+  }
+]

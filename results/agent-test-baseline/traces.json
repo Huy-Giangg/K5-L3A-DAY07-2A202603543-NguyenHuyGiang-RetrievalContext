@@ -1,0 +1,991 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "What was the total dollar value of the external debt stock of MICs in 2025 when excluding China?",
+    "status": "answered",
+    "answer": "The total dollar value of the external debt stock of MICs in 2025, excluding China, was $6.9 trillion [worldbank-idr-2026_p31_para_001].",
+    "citations": [
+      "worldbank-idr-2026_p31_para_001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "total dollar value external debt stock MICs 2025 excluding China",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p31_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 31,
+            "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n7\nWhen China is excluded, the cumulative external debt stock of MICs increased\nat a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025. An\nincrease of that magnitude has not been seen since 2017 and was concentrated\namong the 10 largest LMIC borrowers other than China. 1 These borrowers\naccount for 59.5 percent of all LMIC external debt. Half of them recorded\ndouble-digit increases in their borrowing levels in 2025, led by a 29.2 percent\nincrease in Ukraine’s debt stock, to $250.3 billion, following continued and\nunprecedented support from the Group of Seven countries and multilateral\ncreditors.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2638,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7384477853775024,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p31_para_002",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 31,
+            "text": "Argentina, Colombia, South Africa, and Türkiye also experienced\ndouble-digit increases in their external debt positions. External debt stock of the\nother five MICs among the top 10 borrowers (again, excluding China) also rose,\nincreasing by 7.0 percent to $2.7 trillion in 2025, with short-term debt stock\nrising at a rate of 8.8 percent, and long-term debt at a rate of 6.7 percent. These\nfive countries accounted for 29.6 percent of MIC total debt stock.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2638,
+              "strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.7223702073097229,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p30_para_003",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 30,
+            "text": "China’s external debt fell by 4.3 percent\nto $2.3 trillion (figure 1.1), which means that debt accumulated substantially\nfaster across other MICs than the overall MIC figure suggests.\nFigure 1.1 External Debt Stocks of Low- and Middle-Income Countries, 2015–25\n0\n2\n4\n6\n8\n10\nUS$ (trillion)\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025\nLow- and middle-income countries China\nIDA-eligible countries Other low- and middle-income countries\nSource: World Bank Group International Debt Statistics database.\nNote: IDA = International Development Association.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 1851,
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.672468364238739,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p31_para_001 | data/international_debt_report_2026.pdf | page 31]\n1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n7\nWhen China is excluded, the cumulative external debt stock of MICs increased\nat a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025. An\nincrease of that magnitude has not been seen since 2017 and was concentrated\namong the 10 largest LMIC borrowers other than China. 1 These borrowers\naccount for 59.5 percent of all LMIC external debt. Half of them recorded\ndouble-digit increases in their borrowing levels in 2025, led by a 29.2 percent\nincrease in Ukraine’s debt stock, to $250.3 billion, following continued and\nunprecedented support from the Group of Seven countries and multilateral\ncreditors.",
+        "context_ids": [
+          "worldbank-idr-2026_p31_para_001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3286.312000011094
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "In the Key Takeaways, did debt burdens ease or rise in IDA-eligible countries in 2025?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Key Takeaways debt burdens IDA-eligible countries 2025",
+        "filter": {
+          "chapter": "Key Takeaways"
+        },
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p21_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 21,
+            "text": "KEy T AKEA wAyS\nxix\n• Debt burdens eased in IDA-eligible countries but rose elsewhere. Despite\na sharp increase in borrowing, IDA-eligible countries saw their external\ndebt burdens decline slightly in 2025. Their debt-to-income ratio fell\nfrom 42.1 percent to 41.2 percent, as economic growth outpaced debt\naccumulation, and some countries benefited from debt restructuring. The\npicture was different for other developing economies. Excluding China,\nLMICs saw their debt-to-income ratio rise to 34.5 percent, as debt grew faster\nthan national income.\n• Other financial flows to LMICs continue to diverge, with negative\nconsequences. Foreign direct investment (FDI) and personal remittances to\nLMICs continued to diverge in 2025, a trend that has been accelerating over\ntwo decades.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 2295,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7280904650688171,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p21_para_003",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 21,
+            "text": "This growing divide\ncarries long-term implications for growth, because FDI builds productive\ncapacity whereas remittances primarily support households and remain less\nconnected to productive investment.\nIn addition to the release of the 2025 external debt data from the International\nDebt Statistics database, this edition of the International Debt Report provides\n• An analysis of macroeconomic conditions and risks LMICs face amid\nchanging global financial and trade conditions and what these shifts imply for\nthese countries’ debt burdens and vulnerabilities;\n• A discussion of how rising debt service burdens, elevated financing needs, and\nchanging financing patterns are constraining fiscal space and intensifying debt\nand rollover risks, as well as the policy priorities for strengthening resilience;\n• An analysis of how elevated debt burdens appear to be associated with\nadverse changes in healthy diet unaffordability in LMICs during periods of\nglobal stress and of potential underlying mechanisms, including food import\nreliance and diversification; and\n• An update on progress of the debt transparency agenda and the role of\nthe World Bank Group in advancing sound debt management and policy\nframeworks, enhancing the accuracy and coverage of debt data, and\npromoting the reconciliation of borrower and creditor accounts.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 2295,
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.6006062030792236,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p23_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 23,
+            "text": "xxi\nAcronyms Abbreviations\nAfDB African Development Bank\nAFESD Arab Fund for Economic and Social Development\nBCIE Central American Bank for Economic Integration\nBDEAC Development Bank of the Central African States\nCAF Development Bank of Latin America and the Caribbean\nDRS Debtor Reporting System\nDSF Debt Sustainability Framework\nDSPD debt-stabilizing primary deficit\nEBRD European Bank for Reconstruction and Development\nEIB European Investment Bank\nERA Extraordinary Revenue Acceleration\nFDI foreign direct investment\nFY fiscal year\nG-7 Group of Seven\nG-20 Group of Twenty\nGDP gross domestic product\nGFN\nGNI\ngross financing need\ngross national income\nHIPC Heavily Indebted Poor Countries Initiative\nIBRD International Bank for Reconstruction and Development\nIDA International Development Association\nIDB Inter-American Development Bank\nIDR International Debt Report\nIDS International Debt Statistics\nIMF International Monetary Fund\nLICs low-income countries\nLIC-DSF Debt Sustainability Framework for Low-Income Countries\nLMICs low- and middle-income countries\nMICs middle-income countries\nMoU memorandum of understanding\nOECD Organisation for Economic Co-operation and Development\nPE portfolio equity\nAbbreviations.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 1218,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.49344342947006226,
+            "strategy": "dense"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "Key Takeaways debt burdens IDA-eligible countries 2025",
+        "filter": {
+          "chapter": "Key Takeaways"
+        },
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p21_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 21,
+            "text": "KEy T AKEA wAyS\nxix\n• Debt burdens eased in IDA-eligible countries but rose elsewhere. Despite\na sharp increase in borrowing, IDA-eligible countries saw their external\ndebt burdens decline slightly in 2025. Their debt-to-income ratio fell\nfrom 42.1 percent to 41.2 percent, as economic growth outpaced debt\naccumulation, and some countries benefited from debt restructuring. The\npicture was different for other developing economies. Excluding China,\nLMICs saw their debt-to-income ratio rise to 34.5 percent, as debt grew faster\nthan national income.\n• Other financial flows to LMICs continue to diverge, with negative\nconsequences. Foreign direct investment (FDI) and personal remittances to\nLMICs continued to diverge in 2025, a trend that has been accelerating over\ntwo decades.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 2295,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7280904650688171,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p21_para_003",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 21,
+            "text": "This growing divide\ncarries long-term implications for growth, because FDI builds productive\ncapacity whereas remittances primarily support households and remain less\nconnected to productive investment.\nIn addition to the release of the 2025 external debt data from the International\nDebt Statistics database, this edition of the International Debt Report provides\n• An analysis of macroeconomic conditions and risks LMICs face amid\nchanging global financial and trade conditions and what these shifts imply for\nthese countries’ debt burdens and vulnerabilities;\n• A discussion of how rising debt service burdens, elevated financing needs, and\nchanging financing patterns are constraining fiscal space and intensifying debt\nand rollover risks, as well as the policy priorities for strengthening resilience;\n• An analysis of how elevated debt burdens appear to be associated with\nadverse changes in healthy diet unaffordability in LMICs during periods of\nglobal stress and of potential underlying mechanisms, including food import\nreliance and diversification; and\n• An update on progress of the debt transparency agenda and the role of\nthe World Bank Group in advancing sound debt management and policy\nframeworks, enhancing the accuracy and coverage of debt data, and\npromoting the reconciliation of borrower and creditor accounts.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 2295,
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.6006062030792236,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p23_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 23,
+            "text": "xxi\nAcronyms Abbreviations\nAfDB African Development Bank\nAFESD Arab Fund for Economic and Social Development\nBCIE Central American Bank for Economic Integration\nBDEAC Development Bank of the Central African States\nCAF Development Bank of Latin America and the Caribbean\nDRS Debtor Reporting System\nDSF Debt Sustainability Framework\nDSPD debt-stabilizing primary deficit\nEBRD European Bank for Reconstruction and Development\nEIB European Investment Bank\nERA Extraordinary Revenue Acceleration\nFDI foreign direct investment\nFY fiscal year\nG-7 Group of Seven\nG-20 Group of Twenty\nGDP gross domestic product\nGFN\nGNI\ngross financing need\ngross national income\nHIPC Heavily Indebted Poor Countries Initiative\nIBRD International Bank for Reconstruction and Development\nIDA International Development Association\nIDB Inter-American Development Bank\nIDR International Debt Report\nIDS International Debt Statistics\nIMF International Monetary Fund\nLICs low-income countries\nLIC-DSF Debt Sustainability Framework for Low-Income Countries\nLMICs low- and middle-income countries\nMICs middle-income countries\nMoU memorandum of understanding\nOECD Organisation for Economic Co-operation and Development\nPE portfolio equity\nAbbreviations.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 1218,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.49344342947006226,
+            "strategy": "dense"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "Key Takeaways debt burdens IDA-eligible countries 2025",
+        "filter": {
+          "chapter": "Key Takeaways"
+        },
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p21_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 21,
+            "text": "KEy T AKEA wAyS\nxix\n• Debt burdens eased in IDA-eligible countries but rose elsewhere. Despite\na sharp increase in borrowing, IDA-eligible countries saw their external\ndebt burdens decline slightly in 2025. Their debt-to-income ratio fell\nfrom 42.1 percent to 41.2 percent, as economic growth outpaced debt\naccumulation, and some countries benefited from debt restructuring. The\npicture was different for other developing economies. Excluding China,\nLMICs saw their debt-to-income ratio rise to 34.5 percent, as debt grew faster\nthan national income.\n• Other financial flows to LMICs continue to diverge, with negative\nconsequences. Foreign direct investment (FDI) and personal remittances to\nLMICs continued to diverge in 2025, a trend that has been accelerating over\ntwo decades.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 2295,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7280904650688171,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p21_para_003",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 21,
+            "text": "This growing divide\ncarries long-term implications for growth, because FDI builds productive\ncapacity whereas remittances primarily support households and remain less\nconnected to productive investment.\nIn addition to the release of the 2025 external debt data from the International\nDebt Statistics database, this edition of the International Debt Report provides\n• An analysis of macroeconomic conditions and risks LMICs face amid\nchanging global financial and trade conditions and what these shifts imply for\nthese countries’ debt burdens and vulnerabilities;\n• A discussion of how rising debt service burdens, elevated financing needs, and\nchanging financing patterns are constraining fiscal space and intensifying debt\nand rollover risks, as well as the policy priorities for strengthening resilience;\n• An analysis of how elevated debt burdens appear to be associated with\nadverse changes in healthy diet unaffordability in LMICs during periods of\nglobal stress and of potential underlying mechanisms, including food import\nreliance and diversification; and\n• An update on progress of the debt transparency agenda and the role of\nthe World Bank Group in advancing sound debt management and policy\nframeworks, enhancing the accuracy and coverage of debt data, and\npromoting the reconciliation of borrower and creditor accounts.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 2295,
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.6006062030792236,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p23_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 23,
+            "text": "xxi\nAcronyms Abbreviations\nAfDB African Development Bank\nAFESD Arab Fund for Economic and Social Development\nBCIE Central American Bank for Economic Integration\nBDEAC Development Bank of the Central African States\nCAF Development Bank of Latin America and the Caribbean\nDRS Debtor Reporting System\nDSF Debt Sustainability Framework\nDSPD debt-stabilizing primary deficit\nEBRD European Bank for Reconstruction and Development\nEIB European Investment Bank\nERA Extraordinary Revenue Acceleration\nFDI foreign direct investment\nFY fiscal year\nG-7 Group of Seven\nG-20 Group of Twenty\nGDP gross domestic product\nGFN\nGNI\ngross financing need\ngross national income\nHIPC Heavily Indebted Poor Countries Initiative\nIBRD International Bank for Reconstruction and Development\nIDA International Development Association\nIDB Inter-American Development Bank\nIDR International Debt Report\nIDS International Debt Statistics\nIMF International Monetary Fund\nLICs low-income countries\nLIC-DSF Debt Sustainability Framework for Low-Income Countries\nLMICs low- and middle-income countries\nMICs middle-income countries\nMoU memorandum of understanding\nOECD Organisation for Economic Co-operation and Development\nPE portfolio equity\nAbbreviations.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 1218,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.49344342947006226,
+            "strategy": "dense"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 1469.2619999987073
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "What was Ukraine's external debt stock after the 29.2 percent increase in 2025?",
+    "status": "answered",
+    "answer": "Ukraine's external debt stock increased by 29.2 percent in 2025 to $250.3 billion [worldbank-idr-2026_p31_para_001].",
+    "citations": [
+      "worldbank-idr-2026_p31_para_001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Ukraine external debt stock 2025 29.2 percent increase",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p31_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 31,
+            "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n7\nWhen China is excluded, the cumulative external debt stock of MICs increased\nat a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025. An\nincrease of that magnitude has not been seen since 2017 and was concentrated\namong the 10 largest LMIC borrowers other than China. 1 These borrowers\naccount for 59.5 percent of all LMIC external debt. Half of them recorded\ndouble-digit increases in their borrowing levels in 2025, led by a 29.2 percent\nincrease in Ukraine’s debt stock, to $250.3 billion, following continued and\nunprecedented support from the Group of Seven countries and multilateral\ncreditors.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2638,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.77439284324646,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p39_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 39,
+            "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n15\n(Box continues on next page)\nWhat is unique about this mechanism, compared to direct lending, is that the\nprincipal and interest are serviced from future revenues generated by immobilized\nRussian sovereign assets rather than from Ukraine’s own budget. Those revenues\nare channeled through the Ukraine Loan Cooperation Mechanism, administered by\nthe European Commission. ERA support extended as loans creates a repayment\nobligation for the government of Ukraine and is therefore recorded as an external\ndebt liability, whereas the Ukraine Loan Cooperation Mechanism represents a\nfinancial asset of Ukraine available to service the loan.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2124,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7238562107086182,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p38_para_003",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 38,
+            "text": "However, when the European\nUnion’s support to Ukraine is excluded, debt stock owed to multilateral creditors\nincreased 7.0 percent to $1.4 trillion in 2026.\nBox 1.4 International Support for Ukraine: The G-7 Extraordinary Revenue\nAcceleration\nA Surge in Lending, Concentrated Among Official Creditors\nFinancial support for Ukraine from bilateral and multilateral creditors has reached\nunprecedented levels since the start of the Ukraine War in February 2022. Official\ncreditors, including the Group of Seven (G-7) bilateral creditors and multilaterals\nlike the European Union and the World Bank Group, provided $122.2 billion in\ndisbursements during the 2022–25 period. This support reshaped the composition\nof Ukraine’s external debt (figure B1 .4.1).",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2752,
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.698792576789856,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p31_para_001 | data/international_debt_report_2026.pdf | page 31]\n1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n7\nWhen China is excluded, the cumulative external debt stock of MICs increased\nat a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025. An\nincrease of that magnitude has not been seen since 2017 and was concentrated\namong the 10 largest LMIC borrowers other than China. 1 These borrowers\naccount for 59.5 percent of all LMIC external debt. Half of them recorded\ndouble-digit increases in their borrowing levels in 2025, led by a 29.2 percent\nincrease in Ukraine’s debt stock, to $250.3 billion, following continued and\nunprecedented support from the Group of Seven countries and multilateral\ncreditors.",
+        "context_ids": [
+          "worldbank-idr-2026_p31_para_001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 1439.07809999655
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "What was the annual growth rate of LMICs' external borrowing between 2024 and 2025?",
+    "status": "answered",
+    "answer": "The annual growth rate of LMICs' external borrowing between 2024 and 2025 was 5.5 percent [worldbank-idr-2026_p27_para_001].",
+    "citations": [
+      "worldbank-idr-2026_p27_para_001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "LMICs external borrowing annual growth rate 2024 2025",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p27_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 27,
+            "text": "3\n1. Analysis of External Debt Stocks\nand Debt Flows as of End-2025\nTrends in External Debt, 2015–25\nRenewed global inflationary pressures, geopolitical tensions, and decreased\nfiscal space continued to put substantial pressure on the external debt positions\nof low- and middle-income countries (LMICs) in 2025. LMICs’ external\nborrowing levels reached a record $9.4 trillion at the end of the year, increasing\n5.5 percent from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 1644,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7711168527603149,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p50_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 50,
+            "text": "INTERNATIONAL DEBT REPORT 2026\n26\nlending to LMICs. However, their return has also come with higher compensation\nfor risk—that is, with higher interest rates.\nLMICs’ average interest rate on new external commitments from private\ncreditors remained elevated in 2025, at 5.7 percent, almost double the rate of\nthe equivalent from official creditor sources (figure 1.9). Average interest rates\nbegan to increase rapidly in 2022 to tame inflation and have remained elevated\nsince then for private creditors, whose lending tends to oscillate depending on\nmarket conditions. Improved global financial conditions have supported LMICs’\nrestoration of access to international capital markets.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2075,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7604260444641113,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p40_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 40,
+            "text": "INTERNATIONAL DEBT REPORT 2026\n16\nTrends in External Debt Flows, 2015–25\nNet debt inflows (disbursements minus principal repayments) to LMICs grew for\na third consecutive year, more than doubling in 2025 to $423.5 billion. From a\nmaturity standpoint, short-term net debt inflows recorded a more than fivefold\nincrease in 2025, to $89.4 billion, and long-term net debt inflows doubled, to\n$334.1 billion, approximately 78.9 percent of the total volume of net inflows.\nThis increase in long-term net debt inflows was due to the return to lending to\nLMICs by private creditors in 2025; these creditors accounted for 75.2 percent\nof the total long-term component and increased their lending volume by\n180.5 percent to $251.1 billion.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2692,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.704866349697113,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p27_para_001 | data/international_debt_report_2026.pdf | page 27]\n3\n1. Analysis of External Debt Stocks\nand Debt Flows as of End-2025\nTrends in External Debt, 2015–25\nRenewed global inflationary pressures, geopolitical tensions, and decreased\nfiscal space continued to put substantial pressure on the external debt positions\nof low- and middle-income countries (LMICs) in 2025. LMICs’ external\nborrowing levels reached a record $9.4 trillion at the end of the year, increasing\n5.5 percent from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021.",
+        "context_ids": [
+          "worldbank-idr-2026_p27_para_001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 2952.8445999894757
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "Was the external debt situation in 2025 identical between IDA-eligible countries and other developing economies?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "external debt situation 2025 IDA-eligible countries other developing economies",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p21_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 21,
+            "text": "KEy T AKEA wAyS\nxix\n• Debt burdens eased in IDA-eligible countries but rose elsewhere. Despite\na sharp increase in borrowing, IDA-eligible countries saw their external\ndebt burdens decline slightly in 2025. Their debt-to-income ratio fell\nfrom 42.1 percent to 41.2 percent, as economic growth outpaced debt\naccumulation, and some countries benefited from debt restructuring. The\npicture was different for other developing economies. Excluding China,\nLMICs saw their debt-to-income ratio rise to 34.5 percent, as debt grew faster\nthan national income.\n• Other financial flows to LMICs continue to diverge, with negative\nconsequences. Foreign direct investment (FDI) and personal remittances to\nLMICs continued to diverge in 2025, a trend that has been accelerating over\ntwo decades.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 2295,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.74500572681427,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p37_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 37,
+            "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n13\nDebtor Reporting System are either (a) eligible only for concessional lending from\nIDA and referred to as IDA-only countries; or (b) eligible for a mix of IBRD and\nIDA lending and referred to as “blend” countries. Together, IDA-only and IBRD-IDA\nblend countries are referred to as IDA-eligible countries. Figure B1 .3.1 shows the\ndistribution of the 119 low- and middle-income countries and Guyana included\nin International Debt Report 2026 by income and lending groups. IDA countries\nreceiving their IDA resources only on grant terms, which carry no repayments, are\nnot part of the Debtor Reporting System.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2132,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7335456609725952,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p27_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 27,
+            "text": "3\n1. Analysis of External Debt Stocks\nand Debt Flows as of End-2025\nTrends in External Debt, 2015–25\nRenewed global inflationary pressures, geopolitical tensions, and decreased\nfiscal space continued to put substantial pressure on the external debt positions\nof low- and middle-income countries (LMICs) in 2025. LMICs’ external\nborrowing levels reached a record $9.4 trillion at the end of the year, increasing\n5.5 percent from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 1644,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6933236122131348,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p37_para_001 | data/international_debt_report_2026.pdf | page 37]\n1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n13\nDebtor Reporting System are either (a) eligible only for concessional lending from\nIDA and referred to as IDA-only countries; or (b) eligible for a mix of IBRD and\nIDA lending and referred to as “blend” countries. Together, IDA-only and IBRD-IDA\nblend countries are referred to as IDA-eligible countries. Figure B1 .3.1 shows the\ndistribution of the 119 low- and middle-income countries and Guyana included\nin International Debt Report 2026 by income and lending groups. IDA countries\nreceiving their IDA resources only on grant terms, which carry no repayments, are\nnot part of the Debtor Reporting System.",
+        "context_ids": [
+          "worldbank-idr-2026_p37_para_001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "external debt 2025 IDA-eligible countries other developing economies comparison",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p21_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 21,
+            "text": "KEy T AKEA wAyS\nxix\n• Debt burdens eased in IDA-eligible countries but rose elsewhere. Despite\na sharp increase in borrowing, IDA-eligible countries saw their external\ndebt burdens decline slightly in 2025. Their debt-to-income ratio fell\nfrom 42.1 percent to 41.2 percent, as economic growth outpaced debt\naccumulation, and some countries benefited from debt restructuring. The\npicture was different for other developing economies. Excluding China,\nLMICs saw their debt-to-income ratio rise to 34.5 percent, as debt grew faster\nthan national income.\n• Other financial flows to LMICs continue to diverge, with negative\nconsequences. Foreign direct investment (FDI) and personal remittances to\nLMICs continued to diverge in 2025, a trend that has been accelerating over\ntwo decades.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 2295,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7508316040039062,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p37_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 37,
+            "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n13\nDebtor Reporting System are either (a) eligible only for concessional lending from\nIDA and referred to as IDA-only countries; or (b) eligible for a mix of IBRD and\nIDA lending and referred to as “blend” countries. Together, IDA-only and IBRD-IDA\nblend countries are referred to as IDA-eligible countries. Figure B1 .3.1 shows the\ndistribution of the 119 low- and middle-income countries and Guyana included\nin International Debt Report 2026 by income and lending groups. IDA countries\nreceiving their IDA resources only on grant terms, which carry no repayments, are\nnot part of the Debtor Reporting System.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2132,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7309932708740234,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p27_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 27,
+            "text": "3\n1. Analysis of External Debt Stocks\nand Debt Flows as of End-2025\nTrends in External Debt, 2015–25\nRenewed global inflationary pressures, geopolitical tensions, and decreased\nfiscal space continued to put substantial pressure on the external debt positions\nof low- and middle-income countries (LMICs) in 2025. LMICs’ external\nborrowing levels reached a record $9.4 trillion at the end of the year, increasing\n5.5 percent from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 1644,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6795153617858887,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p37_para_001 | data/international_debt_report_2026.pdf | page 37]\n1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n13\nDebtor Reporting System are either (a) eligible only for concessional lending from\nIDA and referred to as IDA-only countries; or (b) eligible for a mix of IBRD and\nIDA lending and referred to as “blend” countries. Together, IDA-only and IBRD-IDA\nblend countries are referred to as IDA-eligible countries. Figure B1 .3.1 shows the\ndistribution of the 119 low- and middle-income countries and Guyana included\nin International Debt Report 2026 by income and lending groups. IDA countries\nreceiving their IDA resources only on grant terms, which carry no repayments, are\nnot part of the Debtor Reporting System.",
+        "context_ids": [
+          "worldbank-idr-2026_p37_para_001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "external debt 2025 IDA-eligible countries other developing economies comparison stocks flows",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p37_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 37,
+            "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n13\nDebtor Reporting System are either (a) eligible only for concessional lending from\nIDA and referred to as IDA-only countries; or (b) eligible for a mix of IBRD and\nIDA lending and referred to as “blend” countries. Together, IDA-only and IBRD-IDA\nblend countries are referred to as IDA-eligible countries. Figure B1 .3.1 shows the\ndistribution of the 119 low- and middle-income countries and Guyana included\nin International Debt Report 2026 by income and lending groups. IDA countries\nreceiving their IDA resources only on grant terms, which carry no repayments, are\nnot part of the Debtor Reporting System.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2132,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7206921577453613,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p21_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 21,
+            "text": "KEy T AKEA wAyS\nxix\n• Debt burdens eased in IDA-eligible countries but rose elsewhere. Despite\na sharp increase in borrowing, IDA-eligible countries saw their external\ndebt burdens decline slightly in 2025. Their debt-to-income ratio fell\nfrom 42.1 percent to 41.2 percent, as economic growth outpaced debt\naccumulation, and some countries benefited from debt restructuring. The\npicture was different for other developing economies. Excluding China,\nLMICs saw their debt-to-income ratio rise to 34.5 percent, as debt grew faster\nthan national income.\n• Other financial flows to LMICs continue to diverge, with negative\nconsequences. Foreign direct investment (FDI) and personal remittances to\nLMICs continued to diverge in 2025, a trend that has been accelerating over\ntwo decades.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 2295,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7022780179977417,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p46_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 46,
+            "text": "INTERNATIONAL DEBT REPORT 2026\n22\nFigure 1.6 Composition of Debt Flows, Top 10 Borrowers (Excluding China)\n–10\n0\n10\n20\n30\n40\n50\n60\n70\nIndia Brazil Mexico TürkiyeIndonesiaArgentinaColombia Ukraine Thailand South Africa\nPublic and publicly guaranteed Private nonguaranteed Short-term\nUS$ (billion)\nSource: World Bank Group International Debt Statistics database.\nTrends in Net Transfers on External Debt, 2015–25\nLMICs’ long-term net debt transfers (disbursement minus total debt service\npayments) turned positive in 2025 after three consecutive years of negative\nvolumes.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2050,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6741742491722107,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p37_para_001 | data/international_debt_report_2026.pdf | page 37]\n1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n13\nDebtor Reporting System are either (a) eligible only for concessional lending from\nIDA and referred to as IDA-only countries; or (b) eligible for a mix of IBRD and\nIDA lending and referred to as “blend” countries. Together, IDA-only and IBRD-IDA\nblend countries are referred to as IDA-eligible countries. Figure B1 .3.1 shows the\ndistribution of the 119 low- and middle-income countries and Guyana included\nin International Debt Report 2026 by income and lending groups. IDA countries\nreceiving their IDA resources only on grant terms, which carry no repayments, are\nnot part of the Debtor Reporting System.",
+        "context_ids": [
+          "worldbank-idr-2026_p37_para_001"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 21833.453300001565
+  },
+  {
+    "query_id": "q_unans_test_01",
+    "split": "test",
+    "question": "What was the total external debt of Japan at the end of 2025 according to the report?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Japan total external debt end of 2025",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p34_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 34,
+            "text": "INTERNATIONAL DEBT REPORT 2026\n10\nJapanese yen. The dollar’s dramatic 2025 depreciation inflates the size of external\ndebt denominated in these currencies; that debt would appear to be more moderate\nif, for example, it was recorded in euros or other hard currencies.\nThe effect is particularly pronounced among the concessional arm of all\nmultilateral creditors. SDR-denominated loans represent a significant share of\noutstanding concessional debt across multilateral institutions, and the dollar’s\n5.0 percent depreciation against the SDR in 2025 increased these loans’ dollar-\nequivalent values correspondingly.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 3133,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6712740659713745,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p46_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 46,
+            "text": "INTERNATIONAL DEBT REPORT 2026\n22\nFigure 1.6 Composition of Debt Flows, Top 10 Borrowers (Excluding China)\n–10\n0\n10\n20\n30\n40\n50\n60\n70\nIndia Brazil Mexico TürkiyeIndonesiaArgentinaColombia Ukraine Thailand South Africa\nPublic and publicly guaranteed Private nonguaranteed Short-term\nUS$ (billion)\nSource: World Bank Group International Debt Statistics database.\nTrends in Net Transfers on External Debt, 2015–25\nLMICs’ long-term net debt transfers (disbursement minus total debt service\npayments) turned positive in 2025 after three consecutive years of negative\nvolumes.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2050,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6236045360565186,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p27_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 27,
+            "text": "3\n1. Analysis of External Debt Stocks\nand Debt Flows as of End-2025\nTrends in External Debt, 2015–25\nRenewed global inflationary pressures, geopolitical tensions, and decreased\nfiscal space continued to put substantial pressure on the external debt positions\nof low- and middle-income countries (LMICs) in 2025. LMICs’ external\nborrowing levels reached a record $9.4 trillion at the end of the year, increasing\n5.5 percent from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 1644,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6144586205482483,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p34_para_001 | data/international_debt_report_2026.pdf | page 34]\nINTERNATIONAL DEBT REPORT 2026\n10\nJapanese yen. The dollar’s dramatic 2025 depreciation inflates the size of external\ndebt denominated in these currencies; that debt would appear to be more moderate\nif, for example, it was recorded in euros or other hard currencies.\nThe effect is particularly pronounced among the concessional arm of all\nmultilateral creditors. SDR-denominated loans represent a significant share of\noutstanding concessional debt across multilateral institutions, and the dollar’s\n5.0 percent depreciation against the SDR in 2025 increased these loans’ dollar-\nequivalent values correspondingly.",
+        "context_ids": [
+          "worldbank-idr-2026_p34_para_001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Japan total external debt 2025",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p34_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 34,
+            "text": "INTERNATIONAL DEBT REPORT 2026\n10\nJapanese yen. The dollar’s dramatic 2025 depreciation inflates the size of external\ndebt denominated in these currencies; that debt would appear to be more moderate\nif, for example, it was recorded in euros or other hard currencies.\nThe effect is particularly pronounced among the concessional arm of all\nmultilateral creditors. SDR-denominated loans represent a significant share of\noutstanding concessional debt across multilateral institutions, and the dollar’s\n5.0 percent depreciation against the SDR in 2025 increased these loans’ dollar-\nequivalent values correspondingly.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 3133,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7035319805145264,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p46_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 46,
+            "text": "INTERNATIONAL DEBT REPORT 2026\n22\nFigure 1.6 Composition of Debt Flows, Top 10 Borrowers (Excluding China)\n–10\n0\n10\n20\n30\n40\n50\n60\n70\nIndia Brazil Mexico TürkiyeIndonesiaArgentinaColombia Ukraine Thailand South Africa\nPublic and publicly guaranteed Private nonguaranteed Short-term\nUS$ (billion)\nSource: World Bank Group International Debt Statistics database.\nTrends in Net Transfers on External Debt, 2015–25\nLMICs’ long-term net debt transfers (disbursement minus total debt service\npayments) turned positive in 2025 after three consecutive years of negative\nvolumes.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2050,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6562530398368835,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p27_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 27,
+            "text": "3\n1. Analysis of External Debt Stocks\nand Debt Flows as of End-2025\nTrends in External Debt, 2015–25\nRenewed global inflationary pressures, geopolitical tensions, and decreased\nfiscal space continued to put substantial pressure on the external debt positions\nof low- and middle-income countries (LMICs) in 2025. LMICs’ external\nborrowing levels reached a record $9.4 trillion at the end of the year, increasing\n5.5 percent from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 1644,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6280790567398071,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p34_para_001 | data/international_debt_report_2026.pdf | page 34]\nINTERNATIONAL DEBT REPORT 2026\n10\nJapanese yen. The dollar’s dramatic 2025 depreciation inflates the size of external\ndebt denominated in these currencies; that debt would appear to be more moderate\nif, for example, it was recorded in euros or other hard currencies.\nThe effect is particularly pronounced among the concessional arm of all\nmultilateral creditors. SDR-denominated loans represent a significant share of\noutstanding concessional debt across multilateral institutions, and the dollar’s\n5.0 percent depreciation against the SDR in 2025 increased these loans’ dollar-\nequivalent values correspondingly.",
+        "context_ids": [
+          "worldbank-idr-2026_p34_para_001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Japan total external debt 2025",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p34_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 34,
+            "text": "INTERNATIONAL DEBT REPORT 2026\n10\nJapanese yen. The dollar’s dramatic 2025 depreciation inflates the size of external\ndebt denominated in these currencies; that debt would appear to be more moderate\nif, for example, it was recorded in euros or other hard currencies.\nThe effect is particularly pronounced among the concessional arm of all\nmultilateral creditors. SDR-denominated loans represent a significant share of\noutstanding concessional debt across multilateral institutions, and the dollar’s\n5.0 percent depreciation against the SDR in 2025 increased these loans’ dollar-\nequivalent values correspondingly.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 3133,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.7035319805145264,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p46_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 46,
+            "text": "INTERNATIONAL DEBT REPORT 2026\n22\nFigure 1.6 Composition of Debt Flows, Top 10 Borrowers (Excluding China)\n–10\n0\n10\n20\n30\n40\n50\n60\n70\nIndia Brazil Mexico TürkiyeIndonesiaArgentinaColombia Ukraine Thailand South Africa\nPublic and publicly guaranteed Private nonguaranteed Short-term\nUS$ (billion)\nSource: World Bank Group International Debt Statistics database.\nTrends in Net Transfers on External Debt, 2015–25\nLMICs’ long-term net debt transfers (disbursement minus total debt service\npayments) turned positive in 2025 after three consecutive years of negative\nvolumes.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2050,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6562530398368835,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p27_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 27,
+            "text": "3\n1. Analysis of External Debt Stocks\nand Debt Flows as of End-2025\nTrends in External Debt, 2015–25\nRenewed global inflationary pressures, geopolitical tensions, and decreased\nfiscal space continued to put substantial pressure on the external debt positions\nof low- and middle-income countries (LMICs) in 2025. LMICs’ external\nborrowing levels reached a record $9.4 trillion at the end of the year, increasing\n5.5 percent from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 1644,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.6280790567398071,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p34_para_001 | data/international_debt_report_2026.pdf | page 34]\nINTERNATIONAL DEBT REPORT 2026\n10\nJapanese yen. The dollar’s dramatic 2025 depreciation inflates the size of external\ndebt denominated in these currencies; that debt would appear to be more moderate\nif, for example, it was recorded in euros or other hard currencies.\nThe effect is particularly pronounced among the concessional arm of all\nmultilateral creditors. SDR-denominated loans represent a significant share of\noutstanding concessional debt across multilateral institutions, and the dollar’s\n5.0 percent depreciation against the SDR in 2025 increased these loans’ dollar-\nequivalent values correspondingly.",
+        "context_ids": [
+          "worldbank-idr-2026_p34_para_001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 19728.28889999073
+  },
+  {
+    "query_id": "q_unans_test_02",
+    "split": "test",
+    "question": "How much total grant aid was disbursed by the European Union to Latin American nations in 2026?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "European Union grant aid Latin America 2026",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p47_para_002",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 47,
+            "text": "During 2025, multilateral institutions\nprovided $21.0 billion more in financing than they received in principal and\ninterest payments. This increase was led by the European Union’s unprecedented\nsupport to Ukraine, with the organization providing $32.6 billion more to\nLMICs than it received in 2025. The World Bank Group was the second-largest\nprovider of net transfers to LMICs during the year, delivering $3.5 billion more\nthan it received.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2156,
+              "strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.4431280195713043,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p24_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 24,
+            "text": "INTERNATIONAL DEBT REPORT 2026\nxxii\nAcronyms Abbreviations\nPEMEX Petróleos Mexicanos\nPNG private nonguaranteed\nPPA performance and policy action\nPPG public and publicly guaranteed\nRD$ Dominican peso\nSDFP Sustainable Development Finance Policy\nSDRs special drawing rights\nSOE state-owned enterprise\nTRS total return swap\nUNCTAD United Nations Conference on Trade and Development\nAll dollar amounts are in US dollars unless otherwise indicated.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 442,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.4134896993637085,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p40_para_004",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 40,
+            "text": "This fund will provide grants to finance\nnonmilitary projects, programs, and activities supporting Ukraine’s macroeconomic\nstability, promoting the country’s reform agenda, and restoring debt sustainability,\nwhile remaining consistent with the International Monetary Fund’s supported\nprograms. Because the financing is provided in the form of a grant, it does not\ncreate a repayment obligation and therefore does not give rise to an external debt\nliability.\nBox 1.4 International Support for Ukraine: The G-7 Extraordinary Revenue\nAcceleration (continued).",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2692,
+              "strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.40750735998153687,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p47_para_002 | data/international_debt_report_2026.pdf | page 47]\nDuring 2025, multilateral institutions\nprovided $21.0 billion more in financing than they received in principal and\ninterest payments. This increase was led by the European Union’s unprecedented\nsupport to Ukraine, with the organization providing $32.6 billion more to\nLMICs than it received in 2025. The World Bank Group was the second-largest\nprovider of net transfers to LMICs during the year, delivering $3.5 billion more\nthan it received.",
+        "context_ids": [
+          "worldbank-idr-2026_p47_para_002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "European Union grant aid disbursement Latin America 2026",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p45_para_003",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 45,
+            "text": "New disbursements to LMICs from the IMF\nincreased in 2025, by 4.6 percent to $30.7 billion, as the institution provided new\nfinancing to select countries undergoing balance-of-payment difficulties in 2025.\nArgentina was the largest recipient among LMICs, accounting for over half of the\nnew disbursements, at $14.4 billion, as the country continued to receive support\nfor its stabilization and growth plans.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2923,
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.4427034556865692,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p47_para_002",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 47,
+            "text": "During 2025, multilateral institutions\nprovided $21.0 billion more in financing than they received in principal and\ninterest payments. This increase was led by the European Union’s unprecedented\nsupport to Ukraine, with the organization providing $32.6 billion more to\nLMICs than it received in 2025. The World Bank Group was the second-largest\nprovider of net transfers to LMICs during the year, delivering $3.5 billion more\nthan it received.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2156,
+              "strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.43517929315567017,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p24_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 24,
+            "text": "INTERNATIONAL DEBT REPORT 2026\nxxii\nAcronyms Abbreviations\nPEMEX Petróleos Mexicanos\nPNG private nonguaranteed\nPPA performance and policy action\nPPG public and publicly guaranteed\nRD$ Dominican peso\nSDFP Sustainable Development Finance Policy\nSDRs special drawing rights\nSOE state-owned enterprise\nTRS total return swap\nUNCTAD United Nations Conference on Trade and Development\nAll dollar amounts are in US dollars unless otherwise indicated.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 442,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.42480623722076416,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p47_para_002 | data/international_debt_report_2026.pdf | page 47]\nDuring 2025, multilateral institutions\nprovided $21.0 billion more in financing than they received in principal and\ninterest payments. This increase was led by the European Union’s unprecedented\nsupport to Ukraine, with the organization providing $32.6 billion more to\nLMICs than it received in 2025. The World Bank Group was the second-largest\nprovider of net transfers to LMICs during the year, delivering $3.5 billion more\nthan it received.",
+        "context_ids": [
+          "worldbank-idr-2026_p47_para_002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "European Union grant aid disbursement Latin America 2026",
+        "filter": null,
+        "results": [
+          {
+            "id": "worldbank-idr-2026_p45_para_003",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 45,
+            "text": "New disbursements to LMICs from the IMF\nincreased in 2025, by 4.6 percent to $30.7 billion, as the institution provided new\nfinancing to select countries undergoing balance-of-payment difficulties in 2025.\nArgentina was the largest recipient among LMICs, accounting for over half of the\nnew disbursements, at $14.4 billion, as the country continued to receive support\nfor its stabilization and growth plans.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2923,
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.4427034556865692,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p47_para_002",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 47,
+            "text": "During 2025, multilateral institutions\nprovided $21.0 billion more in financing than they received in principal and\ninterest payments. This increase was led by the European Union’s unprecedented\nsupport to Ukraine, with the organization providing $32.6 billion more to\nLMICs than it received in 2025. The World Bank Group was the second-largest\nprovider of net transfers to LMICs during the year, delivering $3.5 billion more\nthan it received.",
+            "metadata": {
+              "chapter": "Chapter 1",
+              "section": "External Debt Trends",
+              "char_count": 2156,
+              "strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.43517929315567017,
+            "strategy": "dense"
+          },
+          {
+            "id": "worldbank-idr-2026_p24_para_001",
+            "source_id": "worldbank-idr-2026",
+            "source": "data/international_debt_report_2026.pdf",
+            "page": 24,
+            "text": "INTERNATIONAL DEBT REPORT 2026\nxxii\nAcronyms Abbreviations\nPEMEX Petróleos Mexicanos\nPNG private nonguaranteed\nPPA performance and policy action\nPPG public and publicly guaranteed\nRD$ Dominican peso\nSDFP Sustainable Development Finance Policy\nSDRs special drawing rights\nSOE state-owned enterprise\nTRS total return swap\nUNCTAD United Nations Conference on Trade and Development\nAll dollar amounts are in US dollars unless otherwise indicated.",
+            "metadata": {
+              "chapter": "Key Takeaways",
+              "section": "Executive Summary",
+              "char_count": 442,
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.42480623722076416,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[worldbank-idr-2026_p47_para_002 | data/international_debt_report_2026.pdf | page 47]\nDuring 2025, multilateral institutions\nprovided $21.0 billion more in financing than they received in principal and\ninterest payments. This increase was led by the European Union’s unprecedented\nsupport to Ukraine, with the organization providing $32.6 billion more to\nLMICs than it received in 2025. The World Bank Group was the second-largest\nprovider of net transfers to LMICs during the year, delivering $3.5 billion more\nthan it received.",
+        "context_ids": [
+          "worldbank-idr-2026_p47_para_002"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 20091.00899999612
+  }
+]

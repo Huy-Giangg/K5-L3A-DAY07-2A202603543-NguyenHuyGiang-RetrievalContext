@@ -1,0 +1,38 @@
+{
+  "cases": 17,
+  "provider_errors": 0,
+  "tool_use": {
+    "n": 17,
+    "N": 17
+  },
+  "grounded_answer": {
+    "0": 9,
+    "1": 0,
+    "2": 6,
+    "N": 15,
+    "mean": 0.8
+  },
+  "citation_validity": {
+    "n": 6,
+    "N": 6
+  },
+  "answer_citation_coverage": {
+    "n": 6,
+    "N": 6
+  },
+  "abstention": {
+    "n": 2,
+    "N": 2
+  },
+  "false_abstention": {
+    "n": 9,
+    "N": 15
+  },
+  "config": {
+    "split": "dev",
+    "retriever": "dense",
+    "budget": 800,
+    "top_k": 3,
+    "max_searches": 3
+  }
+}

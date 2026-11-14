@@ -1,0 +1,100 @@
+[
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "What was the total dollar value of the external debt stock of MICs in 2025 when excluding China?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 31,
+        "evidence": "the cumulative external debt stock of MICs increased\nat a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025."
+      }
+    ],
+    "expected_answer": "$6.9 trillion",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "In the Key Takeaways, did debt burdens ease or rise in IDA-eligible countries in 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 21,
+        "evidence": "Debt burdens eased in IDA-eligible countries but rose elsewhere."
+      }
+    ],
+    "expected_answer": "Debt burdens eased in IDA-eligible countries (but rose elsewhere).",
+    "filter": {
+      "chapter": "Key Takeaways"
+    },
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "What was Ukraine's external debt stock after the 29.2 percent increase in 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 31,
+        "evidence": "Ukraine’s debt stock, to $250.3 billion"
+      }
+    ],
+    "expected_answer": "$250.3 billion",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What was the annual growth rate of LMICs' external borrowing between 2024 and 2025?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 27,
+        "evidence": "increasing\n5.5 percent from $8.9 trillion in 2024."
+      }
+    ],
+    "expected_answer": "5.5 percent",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Was the external debt situation in 2025 identical between IDA-eligible countries and other developing economies?",
+    "gold": [
+      {
+        "source_id": "worldbank-idr-2026",
+        "page": 21,
+        "evidence": "The\npicture was different for other developing economies. Excluding China,\nLMICs saw their debt-to-income ratio rise to 34.5 percent, as debt grew faster\nthan national income."
+      }
+    ],
+    "expected_answer": "No, debt burdens eased in IDA countries due to growth and restructuring, but rose in other developing economies where debt grew faster than income.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_unans_test_01",
+    "split": "test",
+    "question": "What was the total external debt of Japan at the end of 2025 according to the report?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "expected_answer": "Không đủ bằng chứng để trả lời trong tài liệu.",
+    "gold": [],
+    "absence_reason": "Tài liệu chỉ khảo sát nợ nước ngoài của các nước thu nhập thấp và trung bình (LMICs), không theo dõi nợ của Nhật Bản."
+  },
+  {
+    "id": "q_unans_test_02",
+    "split": "test",
+    "question": "How much total grant aid was disbursed by the European Union to Latin American nations in 2026?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "expected_answer": "Không đủ bằng chứng để trả lời trong tài liệu.",
+    "gold": [],
+    "absence_reason": "Báo cáo tổng kết dữ liệu nợ đến hết năm 2025, không chứa dữ liệu giải ngân viện trợ không hoàn lại năm 2026 của EU."
+  }
+]

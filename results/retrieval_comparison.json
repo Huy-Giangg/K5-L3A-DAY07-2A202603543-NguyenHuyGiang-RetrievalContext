@@ -1,0 +1,35 @@
+{
+  "Dense Retrieval": {
+    "n": 15,
+    "hit1": 11,
+    "hit1_rate": 0.7333333333333333,
+    "hit3": 12,
+    "hit3_rate": 0.8,
+    "context_hit": 7,
+    "context_hit_rate": 0.4666666666666667,
+    "median_ms": 15.353199996752664,
+    "mean_ms": 15.325746667804196
+  },
+  "BM25 Lexical": {
+    "n": 15,
+    "hit1": 12,
+    "hit1_rate": 0.8,
+    "hit3": 15,
+    "hit3_rate": 1.0,
+    "context_hit": 9,
+    "context_hit_rate": 0.6,
+    "median_ms": 0.7813999836798757,
+    "mean_ms": 0.8055066651043793
+  },
+  "Hybrid (RRF)": {
+    "n": 15,
+    "hit1": 13,
+    "hit1_rate": 0.8666666666666667,
+    "hit3": 14,
+    "hit3_rate": 0.9333333333333333,
+    "context_hit": 9,
+    "context_hit_rate": 0.6,
+    "median_ms": 15.449900005478412,
+    "mean_ms": 15.841760003240779
+  }
+}

@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "worldbank-idr-2026_p21_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 21,
+    "text": "KEy T AKEA wAyS\nxix\n• Debt burdens eased in IDA-eligible countries but rose elsewhere. Despite\na sharp increase in borrowing, IDA-eligible countries saw their external\ndebt burdens decline slightly in 2025. Their debt-to-income ratio fell\nfrom 42.1 percent to 41.2 percent, as economic growth outpaced debt\naccumulation, and some countries benefited from debt restructuring. The\npicture was different for other developing economies. Excluding China,\nLMICs saw their debt-to-income ratio rise to 34.5 percent, as debt grew faster\nthan national income.\n• Other financial flows to LMICs continue to diverge, with negative\nconsequences. Foreign direct investment (FDI) and personal remittances to\nLMICs continued to diverge in 2025, a trend that has been accelerating over\ntwo decades.",
+    "metadata": {
+      "chapter": "Key Takeaways",
+      "section": "Executive Summary",
+      "char_count": 2295,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p21_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 21,
+    "text": "LMICs saw their FDI contract by 25.5 percent from 2011 to\n2025, whereas remittances more than doubled over the period. In 2025,\nremittances were about $294.5 billion more than FDI.",
+    "metadata": {
+      "chapter": "Key Takeaways",
+      "section": "Executive Summary",
+      "char_count": 2295,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p21_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 21,
+    "text": "This growing divide\ncarries long-term implications for growth, because FDI builds productive\ncapacity whereas remittances primarily support households and remain less\nconnected to productive investment.\nIn addition to the release of the 2025 external debt data from the International\nDebt Statistics database, this edition of the International Debt Report provides\n• An analysis of macroeconomic conditions and risks LMICs face amid\nchanging global financial and trade conditions and what these shifts imply for\nthese countries’ debt burdens and vulnerabilities;\n• A discussion of how rising debt service burdens, elevated financing needs, and\nchanging financing patterns are constraining fiscal space and intensifying debt\nand rollover risks, as well as the policy priorities for strengthening resilience;\n• An analysis of how elevated debt burdens appear to be associated with\nadverse changes in healthy diet unaffordability in LMICs during periods of\nglobal stress and of potential underlying mechanisms, including food import\nreliance and diversification; and\n• An update on progress of the debt transparency agenda and the role of\nthe World Bank Group in advancing sound debt management and policy\nframeworks, enhancing the accuracy and coverage of debt data, and\npromoting the reconciliation of borrower and creditor accounts.",
+    "metadata": {
+      "chapter": "Key Takeaways",
+      "section": "Executive Summary",
+      "char_count": 2295,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p23_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 23,
+    "text": "xxi\nAcronyms Abbreviations\nAfDB African Development Bank\nAFESD Arab Fund for Economic and Social Development\nBCIE Central American Bank for Economic Integration\nBDEAC Development Bank of the Central African States\nCAF Development Bank of Latin America and the Caribbean\nDRS Debtor Reporting System\nDSF Debt Sustainability Framework\nDSPD debt-stabilizing primary deficit\nEBRD European Bank for Reconstruction and Development\nEIB European Investment Bank\nERA Extraordinary Revenue Acceleration\nFDI foreign direct investment\nFY fiscal year\nG-7 Group of Seven\nG-20 Group of Twenty\nGDP gross domestic product\nGFN\nGNI\ngross financing need\ngross national income\nHIPC Heavily Indebted Poor Countries Initiative\nIBRD International Bank for Reconstruction and Development\nIDA International Development Association\nIDB Inter-American Development Bank\nIDR International Debt Report\nIDS International Debt Statistics\nIMF International Monetary Fund\nLICs low-income countries\nLIC-DSF Debt Sustainability Framework for Low-Income Countries\nLMICs low- and middle-income countries\nMICs middle-income countries\nMoU memorandum of understanding\nOECD Organisation for Economic Co-operation and Development\nPE portfolio equity\nAbbreviations.",
+    "metadata": {
+      "chapter": "Key Takeaways",
+      "section": "Executive Summary",
+      "char_count": 1218,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p24_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 24,
+    "text": "INTERNATIONAL DEBT REPORT 2026\nxxii\nAcronyms Abbreviations\nPEMEX Petróleos Mexicanos\nPNG private nonguaranteed\nPPA performance and policy action\nPPG public and publicly guaranteed\nRD$ Dominican peso\nSDFP Sustainable Development Finance Policy\nSDRs special drawing rights\nSOE state-owned enterprise\nTRS total return swap\nUNCTAD United Nations Conference on Trade and Development\nAll dollar amounts are in US dollars unless otherwise indicated.",
+    "metadata": {
+      "chapter": "Key Takeaways",
+      "section": "Executive Summary",
+      "char_count": 442,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p25_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 25,
+    "text": "PART 1\nOverview",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 15,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p27_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 27,
+    "text": "3\n1. Analysis of External Debt Stocks\nand Debt Flows as of End-2025\nTrends in External Debt, 2015–25\nRenewed global inflationary pressures, geopolitical tensions, and decreased\nfiscal space continued to put substantial pressure on the external debt positions\nof low- and middle-income countries (LMICs) in 2025. LMICs’ external\nborrowing levels reached a record $9.4 trillion at the end of the year, increasing\n5.5 percent from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1644,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p27_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 27,
+    "text": "The change in debt stock was\ndriven by net debt inflows of $423.5 billion, a more than twofold increase from\n2024, as well as by some debt forgiveness and the upward accounting effect of\nUS dollar depreciation. During the first half of 2025, the US dollar experienced\nits biggest depreciation against other currencies in more than five decades, and\nthe increase in new debt flows went largely to middle-income countries (MICs),\npredominantly because of continued support from multilateral creditors and a\nrebound in lending from private creditors.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1644,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p27_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 27,
+    "text": "That rebound, driven by both new\nborrowing and buyback operations, indicated a recovery of investor confidence\nafter a retrenchment by private lenders from 2022 to 2023 and only a small\nincrease in 2024, as well as a renewed search for yield (table 1.1). This pattern\nshows the procyclical nature of the private creditor lending. It expands in\nfavorable global conditions and contracts sharply when conditions tighten.\n(Refer to box 1.1 for definitions of debt terms used in this report.).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1644,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p28_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 28,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n4\nTable 1.1 External Debt Stock of Low- and Middle-Income Countries, 2015–25\nUS$ (billion)\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025\nDebt stock 5,915.7 6,136.4 6,933.1 7,382.3 7,757.7 8.182.1 8,829.2 8,726.3 8,889.6 8,949.6 9,445.0\nLong-term 4,396.6 4,661.3 5,130.5 5,372.6 5,728.8 6,140.5 6,587.9 6,481.8 6,568.3 6,618.7 7,020.9\nOfficial creditors 1,019.3 1,077.0 1,179.0 1,250.2 1,315.3 1,483.2 1,683.8 1,717.2 1,815.5 1,839.4 1,993.3\nBilateral creditors 366.6 393.9 432.8 453.8 462.5 493.5 489.5 480.7 493.7 477.0 499.6\nMultilateral creditors 652.7 683.2 746.2 796.4 852.8 989.7 1,194.3 1,236.5 1,321.8 1,362.4 1,493.7\nWorld Bank\n(IBRD and IDA) 278.0 288.6 311.7 321.3 339.5 375.2 387.5 405.0 435.7 463.1 498.7\nIMF (Use of credit and\nSDR allocations) 100.5 103.8 114.5 142.0 162.2 214.6 386.4 380.5 380.9 371.6 400.4\nPrivate creditors 3,377.3 3,584.3 3,951.5 4,122.4 4,413.5 4,657.3 4,904.1 4,764.6 4,752.7 4,779.3 5,027.6\nBonds 1,242.2 1,362.8 1,659.5 1,777.8 1,995.2 2,219.3 2,400.9 2,265.8 2,189.2 2,236.2 2,364.4\nBanks and other private 2,135.1 2,221.4 2,292.0 2,344.7 2,418.3 2,438.0 2,503.2 2,498.7 2,563.5 2,543.2 2,663.2\nShort-term 1,519.1 1,475.0 1,802.6 2.009.7 2,028.9 2.041.7 2,241.3 2,244.5 2,321.3 2,330.9 2,424.1\nMemorandum item\nLong-term PPG 2,196.5 2,365.6 2,678.6 2,910.0 3,127.0 3,421.1 3,815.8 3,798.5 3,894.3 3,972.7 4,274.4\nLong-term PNG 2,200.1 2,295.7 2,451.9 2,462.6 2,601.8 2,719.4 2,772.1 2,683.2 2,674.0 2,646.1 2,746.5\nSources: World Bank Group International Debt Statistics database; International Monetary Fund; Bank for International\nSettlements.\nNote: IBRD = International Bank for Reconstruction and Development; IDA = International Development Association;\nIMF = International Monetary Fund; SDR = special drawing rights; PNG = private nonguaranteed; PPG = public and publicly\nguaranteed.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3058,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p28_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 28,
+    "text": "Refer to box 1.1 for definitions of debt terms used in this report.\nBox 1.1 External Debt Data: Concepts, Sources, and Coverage\nThis report presents data and analysis on external debt for 119 low- and middle-\nincome countries and Guyana. The primary source for these data is reports to\nthe World Bank Group’s Debtor Reporting System (DRS) from member countries\nthat have received either International Bank for Reconstruction and Development\nloans or International Development Association credits, and that have outstanding\nobligations to the World Bank Group. The DRS, instituted in 1951, has its origins\nin the World Bank Group’s need to monitor and assess the financial position of\nits borrowers.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3058,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p28_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 28,
+    "text": "Comprehensive information on data sources and the methodology\nused to compile the statistics presented in this report can be found in the appendix\nunder “Data Sources.” The following describes the key concepts and data sources.\n• The DRS follows international standards and defines external debt as the\noutstanding amount of actual current liabilities in both domestic and foreign\ncurrency that require payment(s) of principal and/or interest by the debtor at\n(Box continues on next page).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3058,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p29_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 29,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n5\nsome point(s) in the future and that are owed to nonresidents by residents of an\neconomy. The sum of principal and interest payments is defined as debt service.\n• The total external debt of a country is the sum of public and publicly guaranteed\ndebt, private nonguaranteed debt, and short-term debt.\n• Public and publicly guaranteed external debt comprises long-term external\nobligations (maturities of over one year) of all public debtors, including debt held\nby the central government and by state-owned enterprises. Data are collected\non a loan-by-loan basis through the DRS.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2796,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p29_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 29,
+    "text": "Reporting countries submit quarterly\nreports on new loan commitments and annual reports on loan status and\ntransactions (new commitments, gross disbursements, principal, and interest\npayments).\n• Private nonguaranteed debt comprises long-term external obligations of private\ndebtors that are not guaranteed by a public entity. The DRS has covered private\nnonguaranteed debt since 1973; however, for this category of debt data, the\nannual status and transactions (gross disbursements, principal, and interest\npayments) are reported in aggregate.\n• Short-term debt is defined as debt with an original maturity of one year or less\nand is not covered under DRS reporting requirements. However, most DRS\nreporters provide an annual report on outstanding short-term debt stocks on\na voluntary basis.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2796,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p29_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 29,
+    "text": "For countries that do not provide these data, information\non their short-term debt is drawn from the Quarterly External Debt Statistics\ndatabase, a joint World Bank Group–International Monetary Fund initiative,\nwherein data are compiled and reported by countries’ central banks, along with\ndata compiled by the Bank for International Settlements.\nAll debt data reported to the DRS are validated against—and, when appropriate,\nsupplemented by—data from other sources.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2796,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p29_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 29,
+    "text": "These additional data include the\nBalance of Payments and International Investment Position statistics, Quarterly\nExternal Debt Statistics, information published on official government websites,\nreports from the International Monetary Fund, regional development banks,\nthe Organisation for Economic Co-operation and Development, the Bank for\nInternational Settlements, and websites and annual publications of lending\nagencies.\nBox 1.1 External Debt Data: Concepts, Sources, and Coverage (continued)\nThe rate of LMIC external debt accumulation in 2025 was comparable to the\nyears 2019 and 2020, but it is above the more recent annual average increase\nof 0.5 percent during the 2022–24 period.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2796,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p29_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 29,
+    "text": "Long-term external debt stock rose\n6.1 percent to $7.0 trillion, equivalent to 74.3 percent of the total external debt\nstock, driven by a 7.6 percent rise in long-term external public and publicly.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2796,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p30_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 30,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n6\nguaranteed (PPG) debt, including obligations to the International Monetary\nFund (IMF), and a much smaller 3.8 percent increase in private nonguaranteed\n(PNG) external debt (debt obligations of private borrowers that are not backed\nby a government or public sector guarantee). The return of debt accumulation\nto 2019–20 levels indicates both continued support from multilateral creditors\nand a significant rebound of private investor confidence and lending, as well as\nLMICs’ eagerness to take advantage of times when international investors are\nwilling to lend.\nIn addition, the short-term debt stock of LMICs increased 4.0 percent to\n$2.4 trillion at end-2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1851,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p30_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 30,
+    "text": "These obligations, which are composed of liabilities\nwith a maturity of one year or less and interest arrears on long term debt, stood\nfor 25.7 percent of total external debt, a share that has remained stable over the\npast decade for LMICs.\nDebt increased across both low- and middle-income countries. In low-income\ncountries (LICs), it rose 8.9 percent to $262.4 billion. In MICs, debt rose\n5.4 percent to a record $9.2 trillion in 2025, the fastest increase since 2021. The\nrise was striking because China, which accounts for nearly one-quarter of LMIC\ndebt, continued to reduce its borrowing.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1851,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p30_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 30,
+    "text": "China’s external debt fell by 4.3 percent\nto $2.3 trillion (figure 1.1), which means that debt accumulated substantially\nfaster across other MICs than the overall MIC figure suggests.\nFigure 1.1 External Debt Stocks of Low- and Middle-Income Countries, 2015–25\n0\n2\n4\n6\n8\n10\nUS$ (trillion)\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025\nLow- and middle-income countries China\nIDA-eligible countries Other low- and middle-income countries\nSource: World Bank Group International Debt Statistics database.\nNote: IDA = International Development Association.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1851,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p31_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 31,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n7\nWhen China is excluded, the cumulative external debt stock of MICs increased\nat a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025. An\nincrease of that magnitude has not been seen since 2017 and was concentrated\namong the 10 largest LMIC borrowers other than China. 1 These borrowers\naccount for 59.5 percent of all LMIC external debt. Half of them recorded\ndouble-digit increases in their borrowing levels in 2025, led by a 29.2 percent\nincrease in Ukraine’s debt stock, to $250.3 billion, following continued and\nunprecedented support from the Group of Seven countries and multilateral\ncreditors.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2638,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p31_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 31,
+    "text": "Argentina, Colombia, South Africa, and Türkiye also experienced\ndouble-digit increases in their external debt positions. External debt stock of the\nother five MICs among the top 10 borrowers (again, excluding China) also rose,\nincreasing by 7.0 percent to $2.7 trillion in 2025, with short-term debt stock\nrising at a rate of 8.8 percent, and long-term debt at a rate of 6.7 percent. These\nfive countries accounted for 29.6 percent of MIC total debt stock.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2638,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p31_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 31,
+    "text": "Some of these\ncountries also turned to complex liability management operations to transform\nthe profile of their debt portfolios, as well as total return swap operations,\nwhich have gained prominence for LMICs (refer to box 1.2 for definitions and\ncountry-specific use of total return swaps).\nBox 1.2 Total Return Swaps: An Emerging Form of Sovereign Financing\nTotal return swaps (TRSs) have traditionally been used in financial markets to\ntransfer the economic risks and returns of an underlying asset without transferring\nits legal ownership.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2638,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p31_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 31,
+    "text": "More recently, TRS structures have gained prominence as a\nform of sovereign financing, often involving up-front funding and the pledging of\ngovernment securities or other assets as collateral.\nHow a TRS Works\nA TRS is a financial derivative contract in which one party transfers the total\neconomic return of a reference asset, including income and changes in market\nvalue, to another party in exchange for a predetermined stream of payments,\ntypically linked to a benchmark interest rate plus a spread.\nIn sovereign transactions, TRS structures can combine derivative features with\nfinancing.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2638,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p31_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 31,
+    "text": "This combination can blur the distinction between a financial derivative\nand conventional borrowing, and makes it important to assess the economic\nsubstance of the transaction.\nSovereign borrowers may turn to TRS arrangements when conventional market\nfinancing is unavailable, slow, or prohibitively expensive. By using government\n(Box continues on next page).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2638,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p32_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 32,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n8\nsecurities as collateral, borrowers can obtain foreign currency liquidity quickly and\npotentially at a lower short-term financing rate. These benefits, however, come\nwith substantial collateral requirements, margin-call, refinancing, and transparency\nrisks.\nThe Growing Use of TRSs in Sovereign Financing\nSince 2024, TRS arrangements have been identified in Angola, Argentina,\nColombia, Nigeria, and Senegal, with financing amounts ranging from about\n$1 .0 billion to $9.3 billion. Maturities have generally ranged from one to three\nyears, and disclosed collateralization ratios have typically been between 133 and\n198 percent.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2631,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p32_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 32,
+    "text": "Collateral has included domestic government securities, external\nsovereign bonds, US Treasury securities, or combinations of these instruments.\nThe transactions vary considerably in scale and collateral structure. In Argentina,\nthe central bank entered a $3 billion, three-year TRS in 2025 backed by domestic\ngovernment securities, although the collateralization ratio has not been publicly\ndisclosed. Angola entered a $1 .2 billion, one-year transaction in 2024 collateralized\nat 198 percent, equivalent to about $2.4 billion in collateral, primarily external\nsovereign bonds. In 2025, this financing was extended and increased to $1 .5 billion\nfor three years, with collateralization reduced to 148 percent, or approximately\n$2.2 billion.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2631,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p32_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 32,
+    "text": "Angola also entered a separate $1 billion, three-year transaction\nin 2025 collateralized at 140 percent, using a combination of US Treasuries and\ndomestic government securities.\nLarger transactions demonstrate the potential scale of this financing. In Colombia,\nTRS transactions totaling approximately $9.3 billion in 2025 had a one-year\nmaturity and collateralization of about 160 percent, implying approximately\n$15.1 billion in pledged external and domestic government securities. Nigeria’s\n$5 billion transaction in 2026 has a three-year maturity and collateralization\nof approximately 133 percent, corresponding to about $6.7 billion in domestic\nsecurities.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2631,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p32_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 32,
+    "text": "In Senegal, seven TRS transactions contracted in 2025 provided\napproximately $1 .1 billion in financing with three-year maturities and average\ncollateralization of about 135 percent, corresponding to approximately $1 .5 billion in\npledged domestic government securities.\nCommon Features of Sovereign TRS Financing\nThe recent transactions point to three common features:\n• Large financing amounts: Transactions range from about $1 .0 billion to\n$9.3 billion.\nBox 1.2 Total Return Swaps: An Emerging Form of Sovereign Financing\n(continued)\n(Box continues on next page).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2631,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p33_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 33,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n9\n• Significant overcollateralization: For every $1 .00 of financing received, disclosed\narrangements have involved securities worth approximately $1 .33 to $1 .98.\n• Relatively short maturities: Maturities of one to three years can create significant\nrefinancing needs when transactions come due.\nImplications for Debt Statistics and Transparency\nA TRS is normally a financial derivative, but some structures can also create debt.\nIf the sovereign receives cash up front and is required to repay it regardless of the\nperformance of the underlying assets, the financing creates an unconditional repayment\nobligation and is therefore recorded as debt. The derivative component is recorded\nseparately.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2865,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p33_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 33,
+    "text": "Securities pledged as collateral generally remain on the sovereign’s balance\nsheet and do not create additional debt simply because they are pledged.\nThe growing use of TRS financing also raises broader transparency and risk-\nmanagement issues. Headline debt statistics may not fully reveal the amount\nof collateral pledged, exposure to margin calls, or refinancing and liquidity\nrisks.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2865,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p33_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 33,
+    "text": "Transparent reporting should therefore provide information on the\namount financed, maturity, collateralization ratio and type of collateral, margin\nrequirements, repayment obligations, and rollover or early termination provisions,\nwhile separately identifying the financing and derivative components.\nBox 1.2 Total Return Swaps: An Emerging Form of Sovereign Financing\n(continued)\nExternal debt, which is usually contracted and denominated in foreign currency,\nis exposed to year-on-year and intrayear exchange rate fluctuations that affect\nits rate of accumulation and its debt service payments.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2865,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p33_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 33,
+    "text": "Movements in the value\nof the US dollar against other global currencies affect the value of LMICs’ debt,\nand the size of these fluctuations in 2025 had important implications for LMICs,\nparticularly those with large dollar-denominated external debt portfolios. For this\nsubset of countries following a flexible exchange rate regime, dollar-denominated\ndebt became cheaper to service.\nAdditionally, in this publication, the US dollar is used as the common currency by\nconvention to measure all external borrowing of LMICs, which has implications\nover time. As the US dollar depreciated in 2025 against the euro, the British pound,\nthe Chinese yuan, and many other currencies, the debt stock denominated in those\ncurrencies increased when converted to US dollars.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2865,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p33_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 33,
+    "text": "The euro, IMF special drawing\nrights (SDR),2 the Chinese yuan, and the Japanese yen are the four currencies that\nmake up the largest portion of LMICs’ non-dollar-denominated debt. In 2025 the\ndollar depreciated 13.1 percent against the euro, 5.0 percent against SDR, and\n4.4 percent against the yuan, and remained essentially stable against the weakened.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2865,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p34_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 34,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n10\nJapanese yen. The dollar’s dramatic 2025 depreciation inflates the size of external\ndebt denominated in these currencies; that debt would appear to be more moderate\nif, for example, it was recorded in euros or other hard currencies.\nThe effect is particularly pronounced among the concessional arm of all\nmultilateral creditors. SDR-denominated loans represent a significant share of\noutstanding concessional debt across multilateral institutions, and the dollar’s\n5.0 percent depreciation against the SDR in 2025 increased these loans’ dollar-\nequivalent values correspondingly.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3133,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p34_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 34,
+    "text": "Concessional repayment schedules further\namplify the impact: because annual principal payments are small relative to\noutstanding balances, the dollar-equivalent currency revaluation of the debt stock\ntends to outweigh the modest stock reductions from debt servicing.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3133,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p34_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 34,
+    "text": "For several\nof the largest borrowers from concessional windows, currency valuation gains in\n2025 not only offset principal payments made during the year but also, in some\ncases, partially reversed the stock reductions achieved through repayments in 2024,\nleaving reported balances higher at end-2025 despite continued debt servicing.\nOf the $301.8 billion increase in LMICs’ PPG debt stock (external debt\nobligations of a country’s government and any private sector debts backed by a\npublic sector guarantee) recorded in 2025, at least 28.2 percent can be attributed\nto the depreciation of the US dollar. Borrowing by the PPG sector of the economy\ngets reported at the instrument level and in the currency in which the liabilities\nare denominated or repaid.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3133,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p34_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 34,
+    "text": "Accordingly, this level of detailed reporting makes\npossible the computation of the effect of the cross-currency valuation.\nViewed from a lending category perspective, the external debt stock of countries\neligible for International Development Association (IDA) financing increased\n8.1 percent in 2025, to $1.3 trillion. Of this group, LICs’ debt increased at an\neven faster pace of 8.9 percent in 2025, to $262.4 billion, a marked increase not\nseen since 2020. Although LICs account for only a 2.8 percent share of total\nLMIC debt stock, over 60 percent of these countries are at high risk of debt\ndistress or already in debt distress.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3133,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p34_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 34,
+    "text": "An increase of such magnitude for this most\nvulnerable group of countries exacerbates their susceptibility to financial market\nvolatility and stresses their already limited fiscal space. (Refer to box 1.3 for\nincome and lending classifications.)\nPrivate lending, which is more susceptible to fluctuations in financial market\nconditions, pricing conditions, and perceived creditworthiness of the borrower,\nsaw a strong rebound in 2025. LMIC debt stock owed to private creditors\nincreased 5.2 percent in 2025 to $5.0 trillion, compared to the 0.6 percent\nincrease recorded in 2024.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3133,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p34_para_006",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 34,
+    "text": "The increase in debt stock owed to private creditors\nwas due to a combined increase in debt owed to bondholders and to commercial\nbanks and other private creditors, which increased by 5.7 percent (to $2.4\ntrillion) and 4.7 percent (to $2.7 trillion), respectively (figure 1.2).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3133,
+      "strategy": "by_paragraph",
+      "chunk_index": 6
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p35_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 35,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n11\nAlmost three-fourths of total LMIC debt stock owed to bondholders was issued\nby public sector entities; that share increased 6.2 percent in 2025, to $1.8 trillion.\nThe increase is even more pronounced when China is excluded: debt stock owed\nto bondholders increased 11.1 percent, to $1.8 trillion, and debt stock owed to\ncommercial banks and other private creditors rose 8.3 percent, to $2.3 trillion\n(figure 1.3). The increase in private lending, which is highly procyclical, was\ncorrelated with this group of countries’ robust economic growth, as measured by their\ngross national income (GNI), which grew 6.0 percent in 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2155,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p35_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 35,
+    "text": "Through the most\nrecent crises, decreases in debt stock from this creditor base have been associated with\nthe 2008 financial crisis, the 2015 turbulence, and the COVID-19 pandemic. The\nrobust 2025 economic growth of LMICs (excluding China) attracted lenders back\nto these economies, and many LMIC governments proved eager to borrow when\ninternational investors are willing to lend, even at elevated borrowing rates.\nFor this group of countries, the share of debt stock owed to bondholders by\npublic sector entities stands at 82 percent, a much higher share than the PNG\nsector counterpart, and increased by 10.4 percent to $1.5 trillion in 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2155,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p35_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 35,
+    "text": "The\nopposite is true for debt stock owed to commercial banks and other private\ncreditors, where an 83 percent share of the obligations is held by the PNG sector\nof the economy. This type of debt increased 7.0 percent to $1.9 trillion in 2025,\nand the debt stock of public sector entities owed to commercial banks and other\nprivate creditors saw a much larger increase of 15.1 percent, to $385.7 billion\nin 2025.\nFigure 1.2 Creditor Composition of External Debt Stock in Low- and Middle-Income\nCountries, 2015–25\nUS$ (trillion)\n0\n2\n4\n6\n8\n10\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025\nMultilateral creditors (incl.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2155,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p35_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 35,
+    "text": "IMF) Bilateral creditors Bondholders\nBanks and other private creditors Short-term\nSource: World Bank Group International Debt Statistics database.\nNote: IMF = International Monetary Fund.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2155,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p36_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 36,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n12\nFigure 1.3 GNI Growth Versus Change in Debt Stock in Low- and Middle-Income\nCountries (Excluding China), 2006–25\nGNI growth Change in bonds Change in private loans\n–10\nPercent\n–5\n0\n5\n10\n15\n20\n25\n2006200720082009201020112012201320142015201620172018201920202021202220232024202\n5\nSource: World Bank Group International Debt Statistics database.\nNote: GNI = gross national income.\nBox 1.3 World Bank Group Income and Lending Classifications Used in\nInternational Debt Report 2026\nThe World Bank Group classifies economies by income level for analytical\npurposes (to broadly group countries by level of development) and operational\npurposes (to determine their Financial Terms and Conditions of Bank Financing).\nThis report presents data for 119 low- and middle-income countries and Guyana\n(the only high-income country eligible for International Development Association\n[IDA] resources) reporting to the World Bank Group Debtor Reporting System.\nTwenty-three of these countries are classified as low-income, with per capita\nincome of $1,175 or less; 96 countries are classified as middle-income, with per\ncapita income equal to or more than 1,176 but equal to or less than $14,375; and\none country, Guyana, is classified as high-income, with per capita income of more\nthan $14,375.a\nIncome classifications are updated annually at the start of the World Bank\nGroup fiscal year (July 1) on the basis of gross national income per capita\nfor the previous year.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1952,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p36_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 36,
+    "text": "Gross national income is expressed in US dollars and\ndetermined by conversion factors derived according to the Atlas methodology.b\nForty-seven of the middle-income countries covered in this report are eligible\nonly for nonconcessional loans from the International Bank for Reconstruction\nand Development and are referred to as IBRD-only countries. The remaining\n23 low-income and 49 middle-income countries, and Guyana, reporting to the\n(Box continues on next page).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1952,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p37_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 37,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n13\nDebtor Reporting System are either (a) eligible only for concessional lending from\nIDA and referred to as IDA-only countries; or (b) eligible for a mix of IBRD and\nIDA lending and referred to as “blend” countries. Together, IDA-only and IBRD-IDA\nblend countries are referred to as IDA-eligible countries. Figure B1 .3.1 shows the\ndistribution of the 119 low- and middle-income countries and Guyana included\nin International Debt Report 2026 by income and lending groups. IDA countries\nreceiving their IDA resources only on grant terms, which carry no repayments, are\nnot part of the Debtor Reporting System.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2132,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p37_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 37,
+    "text": "A comprehensive list of each country’s\nincome and lending classifications appears in the appendix of this report under\n“Country Groups.”\nFigure B1.3.1 Number of Low-, Middle-, and High-Income Countries Covered in\nInternational Debt Report 2026, by FY27 Income and Lending Groups\n0\n10\n20\n30\n40\n50\n60\nNumber\nIDA-only countries Blend countries IBRD-only countries\nLow-income Middle-income High-income\n23\n30\n19\n47\n1\nSources: World Bank Group, “World Bank Country and Lending Groups,” https://\ndatahelpdesk .worldbank.org/knowledgebase/articles/906519-world-bank-country-and\n-lending-groups; World Bank Group IDA, https://ida.worldbank.org/en/home.\nNote: IBRD = International Bank for Reconstruction and Development; IDA = International\nDevelopment Association; FY = fiscal year.\na.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2132,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p37_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 37,
+    "text": "The country grouping is held fixed when data are compared over time in the International\nDebt Report. For example, the aggregate for low-income countries from 2010 to 2025\nconsists of the same group of countries that are classified as low-income countries\naccording to the latest World Bank Group income classification as of end-2025.\nb. For more information on the Atlas methodology, refer to World Bank Group, “The\nWorld Bank Atlas Method—Detailed Methodology,” https://datahelpdesk.worldbank.org\n/knowledgebase/articles/378832-what-is-the-world-bank-atlas-method.\nBox 1.3 World Bank Group Income and Lending Classifications Used in\nInternational Debt Report 2026 (continued).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2132,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p38_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 38,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n14\nLMICs’ debt stock owed to all other creditor groups also increased in 2025. Debt\nstock owed to official creditors (public institutions such as national governments\nand international organizations) increased 8.4 percent in 2025, to $2.0 trillion.\nLending by official bilateral creditors (national governments and their agencies)\nalso showed a comeback, increasing 4.7 percent in 2025 after a 3.4 percent\nretrenchment in 2024. Support from multilateral institutions such as the World\nBank Group and the IMF continued to be positive in 2025, but at a decreasing\npace when compared to the COVID-19 pandemic era.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2752,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p38_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 38,
+    "text": "Except for the multilateral\nsupport to Ukraine provided under the Extraordinary Revenue Acceleration\nLoans for Ukraine initiative, the cumulative countercyclical lending by these\ninstitutions decelerated in 2025. (Box 1.4 describes the international support for\nUkraine through this initiative.) LMICs’ debt stock owed to multilateral creditors\nincreased 9.6 percent to $1.5 trillion in 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2752,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p38_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 38,
+    "text": "However, when the European\nUnion’s support to Ukraine is excluded, debt stock owed to multilateral creditors\nincreased 7.0 percent to $1.4 trillion in 2026.\nBox 1.4 International Support for Ukraine: The G-7 Extraordinary Revenue\nAcceleration\nA Surge in Lending, Concentrated Among Official Creditors\nFinancial support for Ukraine from bilateral and multilateral creditors has reached\nunprecedented levels since the start of the Ukraine War in February 2022. Official\ncreditors, including the Group of Seven (G-7) bilateral creditors and multilaterals\nlike the European Union and the World Bank Group, provided $122.2 billion in\ndisbursements during the 2022–25 period. This support reshaped the composition\nof Ukraine’s external debt (figure B1 .4.1).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2752,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p38_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 38,
+    "text": "Long-term external debt stock rose from\n$99 billion in 2015 to $227 billion in 2025, but little of that increase was driven by\nprivate creditors, whose claims remained broadly flat over the past decade, rising\nslightly from $72 billion to $82 billion. Debt owed to multilateral creditors accounts\nfor most of the increase. Bilateral claims increased sixfold over the past decade but\ngrew from a much smaller base and remained a modest share of the total.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2752,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p38_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 38,
+    "text": "These\nofficial creditors delivered support to Ukraine not only through direct lending but\nalso through grants, trust funds, guarantees, and co- and parallel financing, among\nother financial instruments.\nThe ERA and the Ukraine Loan Cooperation Mechanism\nOne such distinct lending mechanism is the G-7 Extraordinary Revenue\nAcceleration (ERA) Loans to Ukraine initiative, agreed in October 2024. Under the\nERA, G-7 members committed approximately $50 billion in support to Ukraine.\n(Box continues on next page).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2752,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p39_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 39,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n15\n(Box continues on next page)\nWhat is unique about this mechanism, compared to direct lending, is that the\nprincipal and interest are serviced from future revenues generated by immobilized\nRussian sovereign assets rather than from Ukraine’s own budget. Those revenues\nare channeled through the Ukraine Loan Cooperation Mechanism, administered by\nthe European Commission. ERA support extended as loans creates a repayment\nobligation for the government of Ukraine and is therefore recorded as an external\ndebt liability, whereas the Ukraine Loan Cooperation Mechanism represents a\nfinancial asset of Ukraine available to service the loan.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2124,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p39_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 39,
+    "text": "Under the Debtor Reporting\nSystem and international statistical standards—the Balance of Payments and\nInternational Investment Position Manual, sixth and seventh editions (IMF 2009,\n2025) and External Debt Statistics: Guide for Compilers and Users (IMF 2014)—\nthis loan is classified as a debt instrument based on the existence of a contractual\nobligation to repay principal and/or interest, rather than on the expected source of\nrepayment. Accordingly, borrowing remains a debt liability even when debt service\nis expected to be financed from proceeds of immobilized or seized assets. Those\nproceeds provide the mechanism for repayment but do not change the nature of\nthe liability.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2124,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p39_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 39,
+    "text": "Only where repayment is legally limited to those proceeds and the\nborrower has no obligation to cover any shortfall would the arrangement require\ndifferent statistical treatment.\nThis single initiative therefore appears in the Debtor Reporting System through\nseveral different channels. The European Union’s Macro Financial Assistance loan\nBox 1.4 International Support for Ukraine: The G-7 Extraordinary Revenue\nAcceleration (continued)\nFigure B1.4.1 Ukraine’s Long-Term External Debt Stock, by Creditor Type,\n2015–25\n0\n50\n100\n150\n200\n250\nUS$ (billion)\nPrivate creditors Multilateral creditors Bilateral creditors\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 202 5\nSource: World Bank Group International Debt Statistics database.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2124,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p40_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 40,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n16\nTrends in External Debt Flows, 2015–25\nNet debt inflows (disbursements minus principal repayments) to LMICs grew for\na third consecutive year, more than doubling in 2025 to $423.5 billion. From a\nmaturity standpoint, short-term net debt inflows recorded a more than fivefold\nincrease in 2025, to $89.4 billion, and long-term net debt inflows doubled, to\n$334.1 billion, approximately 78.9 percent of the total volume of net inflows.\nThis increase in long-term net debt inflows was due to the return to lending to\nLMICs by private creditors in 2025; these creditors accounted for 75.2 percent\nof the total long-term component and increased their lending volume by\n180.5 percent to $251.1 billion.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2692,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p40_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 40,
+    "text": "Private net debt flows are highly procyclical in\nnature, and the return of private investors has been highly correlated with LMICs’\nongoing economic growth since the COVID-19 downturn in 2020. In 2025,\nLMIC economies, as measured by their GNI, grew 5.1 percent, to a cumulative\n$40.2 trillion.\nIn 2025, net debt inflows from private creditors were nearly evenly divided\nbetween bond issuance and lending by commercial banks, at $130.4 billion\nand $120.7 billion, respectively. Net debt inflows from banks and other private\ncreditors, which had retrenched 71.3 percent to $17.6 billion in 2024, saw the\nbiggest increase, reaching volumes not seen since 2018.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2692,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p40_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 40,
+    "text": "Although public sector\nborrowing from these creditors recorded a 19.4 percent decrease to $34.2 billion\nin 2025, the return was mostly attributed to the PNG sector of the economy,\nwhich recorded an inflow of $86.5 billion in 2025, a stark contrast from the\noutflow of $24.9 billion recorded in 2024.\nof €18.1 billion is recorded as debt to a multilateral creditor. Canada’s contribution\n(Can$5 billion) is recorded as bilateral debt. The United Kingdom’s contribution\n(£1 .7 billion) is recorded as a commercial loan backed by UK Export Finance. The\ncontributions of Japan and the United States were transferred to the World Bank\nGroup–hosted Facilitation of Resources to Invest in Strengthening (F .O.R.T.I.S.)\nUkraine Financial Intermediary Fund.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2692,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p40_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 40,
+    "text": "This fund will provide grants to finance\nnonmilitary projects, programs, and activities supporting Ukraine’s macroeconomic\nstability, promoting the country’s reform agenda, and restoring debt sustainability,\nwhile remaining consistent with the International Monetary Fund’s supported\nprograms. Because the financing is provided in the form of a grant, it does not\ncreate a repayment obligation and therefore does not give rise to an external debt\nliability.\nBox 1.4 International Support for Ukraine: The G-7 Extraordinary Revenue\nAcceleration (continued).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2692,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p41_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 41,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n17\nWhen China, which has recorded four consecutive years of net debt outflows, is\nexcluded, LMICs’ net debt inflows increased to a record $527.6 billion in 2025\n(figure 1.4). The yearly increase is more than twice the 2024 total volume and\nis due to record-high net debt inflows from private creditors, which accounted\nfor 80.8 percent of long-term inflows. This group of countries’ net debt inflows\nfrom private creditors more than tripled in 2025, to $358.3 billion, with lending\nfrom both bondholders and commercial banks recording nearly threefold\nincreases of $177.0 billion and $181.4 billion, respectively.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2149,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p41_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 41,
+    "text": "PNG and PPG sector\nborrowers held an equal share of the volume of these inflows, but obligations\nto bondholders and commercial banks differed. Net debt inflows to public\nsector entities from bondholders accounted for 76.6 percent of inflows received\nfrom private creditors, at $137.7 billion in 2025, more than twice the volume\nrecorded in the prior year. Although holding a much smaller share, inflows from\ncommercial banks and other private creditors to public sector entities increased\nat the same rate as bondholders, reaching $42.1 billion in 2025. The opposite is\nrecorded for PNG net debt inflows, where inflows from bondholders stood for\na 22.0 percent share (at $39.2 billion) of the total, and banks and other private\ncreditors accounted for a 78.0 percent share (at $139.3 billion).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2149,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p41_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 41,
+    "text": "In volume terms,\nthese highs have not been seen since 2013. Essentially, public sector entities\nborrowed via bond markets whereas private sector borrowers used loans from\nbanks and other private sector entities.\nFigure 1.4 Long-Term External Debt Flows to Low- and Middle-Income Countries\n(Excluding China), by Borrower Type, 2023–25\n2023 2024 2025\n0 100 200 300 400 500 60 0\nNet flows\nAmortization\nDisbursements\nNet flows\nAmortization\nDisbursements\nNet flows\nAmortization\nDisbursements\nUS$ (billion)\nPPG\nofficial\nPPG\nprivate\nPNG\nprivate\nSource: World Bank Group International Debt Statistics database.\nNote: PNG = private nonguaranteed; PPG = public and publicly guaranteed.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2149,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p42_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 42,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n18\nThe increase in private creditors’ net debt flows was driven by an increase\nin new disbursements accompanied by a slowdown in principal repayments\nover the same period. New disbursements from private creditors lending to\nthe public sector increased 12.1 percent to $367.8 billion, whereas principal\nrepayments decreased by 3.3 percent to $227.3 billion in 2025. Bond issuances\naccounted for 68.1 percent of these new disbursements, increasing 34.6 percent\nto $250.6 billion, to volumes not seen since 2021. Notably, when China is\nexcluded, the $238.9 billion issuance is a record for LMICs, reflecting a robust\nreturn of investor confidence.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2981,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p42_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 42,
+    "text": "The monetary tightening in advanced economies\ndisproportionately affected the riskiest borrowers, and subsequent monetary\neasing helped improve market conditions and lower borrowing costs from their\n2023 peaks. The rebound was substantial both in pace and scale. The increase\nin new public sector disbursements was driven by Mexico, which accounted for\na 16.7 percent share of new LMIC issues, at $42.0 billion in 2025. Türkiye and\nColombia were the next largest LMIC public sector issuers, at $27.7 billion and\n$27.5 billion respectively, which reflects strong international investor demand\nin 2025.\nThe headline issuance figure masks a divergence of the use of the proceeds\nfrom these international bond sales, however.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2981,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p42_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 42,
+    "text": "Some of the proceeds from new\ndebt issuances in 2025 were strategically used to fund LMICs’ ongoing and\nproactive liability management strategies and operations, particularly debt\nbuyback operations. Fourteen countries carried out such operations to prepay\nand mature $34.5 billion of their outstanding external debt obligations. The debt\nmanagement strategies included the use of proceeds from the issuance of new\nbonds to mature existing liabilities and were part of larger operations, in efforts\nto alter the maturity structure of these countries’ debt portfolios, to change the\ncurrency in which the debt is denominated in order to reduce exchange rate\nexposure, or to lower the interest rates being charged.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2981,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p42_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 42,
+    "text": "Bullet payments of bond\nobligations coming due over the 2024–26 redemption wall were pushed further\ninto the future through these operations, easing rollover risk pressures.\nIn June and September of 2025, Mexico’s public sector executed several debt\nmanagement operations, including issuing new international bonds to retire\nexisting sovereign and state-owned enterprises’ liabilities for an equal or lesser\nnominal value. These buyback operations totaled $17.6 billion and aimed to\nextend the maturity profiles of existing liabilities and to lower borrowing costs\nby capturing lower interest rates. Other markets also recorded major buyback\noperations, with Colombia at $6.6 billion and Argentina at $2.8 billion,\nrecording the second- and third-largest LMIC operations.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2981,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p42_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 42,
+    "text": "Both countries used\ndebt buyback operations in 2025 to retire existing bonds before maturity, with.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2981,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p43_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 43,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n19\nthe goal of lengthening the maturity profiles of their portfolios and reducing\nthe cost of servicing these obligations. In 2025, Kenya issued new bonds of\n$3.5 billion that were used to execute two debt buyback operations, the largest\nfrom an IDA-eligible country, at $1.2 billion. The proceeds were used to smooth\nthe maturity profile of existing liabilities by refinancing near-term liabilities with\nlonger-dated debt, including the $900 million Eurobond maturing in 2027 and\nthe $1 billion Eurobond maturing in 2028.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1988,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p43_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 43,
+    "text": "(Refer to the “Debt Reorganization,\n2025” section for a more detailed discussion on the liability management\noperations implemented in 2025.)\nNew bond issuance from the PNG sector of LMICs also increased in 2025, albeit\nat a slower pace of 18.7 percent and about half the volume of the PPG sector, at\n$132.3 billion (figure 1.5). These new issuances were concentrated among the\ntop 10 LMIC borrowers, many of which are in Latin America and the Caribbean.\nAlthough lower than in 2024, new bond issuance from China’s PNG sector was\nthe largest among LMICs in 2025, at $36.9 billion. Türkiye and Brazil were the\nsecond- and third-largest issuers, at $23.5 billion and $19.8 billion, respectively,\nrecording over 40 percent increases when compared to 2024.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1988,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p43_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 43,
+    "text": "Argentina\n($9.8 billion) and Peru ($6.4 billion) also tapped international bond markets in\n2025, recording increases of almost double and 64.5 percent, respectively, above\nthe previous year, whereas Mexico’s new bond issuance ($8.2 billion) remained\nalmost unchanged from 2024.\nFigure 1.5 Bond Flows to Low- and Middle-Income Countries, by Borrower Type,\n2024–25\n2024 2025\n–150 –100 –50 0 50 100 150 200 250 30 0\nNet flows\nAmortization\nDisbursements\nNet flows\nAmortization\nDisbursements\nPPG\nPNG\nUS$ (billion)\nSource: World Bank Group International Debt Statistics database.\nNote: PNG = private nonguaranteed; PPG = public and publicly guaranteed.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1988,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p44_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 44,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n20\nNew disbursements to LMICs’ PNG sectors from commercial banks and other\nprivate creditors, the other component of PNG flows, increased 27.0 percent\nto a record $594.6 billion in 2025. The volume of these new disbursements\nwas dominated by China and Brazil, which accounted for a 20.1 percent and\n17.7 percent share, respectively. Both countries’ debt portfolios are heavily\nconcentrated on borrowing from this creditor group, and both recorded the\nhighest principal repayments on these obligations. LMICs’ principal repayments\non PNG borrowing from commercial banks and other private creditors\nmoderately increased in 2025, by 3.1 percent to $508.1 billion.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2995,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p44_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 44,
+    "text": "Although China\naccounted for 33.9 percent of these payments among all LMICs, which increased\n20.3 percent in 2025 to $172.1 billion, Brazil’s share was 15.3 percent, and its\npayments to this creditor group decreased 10.3 percent to $78.0 billion in 2025.\nThe net effect of new disbursements and principal repayments on PNG net debt\nflows for this group of creditors resulted in a reversal from net debt outflows of\n$24.9 billion in 2024 to net debt inflows of $86.5 billion in 2025.\nNet debt flows from official creditors to LMICs increased 7.7 percent to\n$83.0 billion in 2025, after an 18.2 percent decrease in 2024.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2995,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p44_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 44,
+    "text": "As financing from\nthe aftermath of the COVID-19 pandemic has continued to taper off, official\ncreditors’ share of total long-term debt inflows decreased from 46.2 percent\nin 2024 to 24.8 percent in 2025. Net debt inflows from official multilateral\ncreditors accounted for 89.4 percent of the official flows, increasing 3.8 percent to\n$74.1 billion in 2025. Inflows from official bilateral creditors almost doubled to\n$8.8 billion but accounted for a moderate 10.6 percent share of total official flows.\nIncreased extraordinary financing from the European Union and select bilateral\ncreditors toward the Extraordinary Revenue Acceleration Loans for Ukraine\ninitiative raised the total official inflows of LMICs in 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2995,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p44_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 44,
+    "text": "When Ukraine\nis excluded, LMICs’ net debt inflows from official multilateral creditors\ndecreased 42.4 percent to $42.7 billion in 2025. For this group of countries,\nofficial bilateral creditors recorded a strong increase of 43.7 percent in 2025, to\n$5.3 billion, which remained below the $17.2 billion decade average recorded,\nbefore plummeting in 2024.\nNet debt flows from the World Bank Group (International Bank for\nReconstruction and Development [IBRD] and IDA financing) continued to\nremain positive in 2025, at $20.0 billion. Unlike procyclical lending from private\ncreditors, lending from official creditors, including multilateral institutions,\nis highly countercyclical in nature.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2995,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p44_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 44,
+    "text": "During the COVID-19 pandemic and its\naftermath, the World Bank Group and other multilateral institutions stepped up\ntheir financing to stabilize LMIC economies through budget support lending,\nespecially for the most vulnerable IDA-eligible countries, as private creditors and.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2995,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p45_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 45,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n21\nmarket financing retrenched. The general return of economic stability among\nLMICs is simultaneously associated with a rebound of investor confidence,\nas well as a decrease in new financing from the World Bank Group and other\nmultilateral institutions. Consequently, new disbursements from IDA and\nIBRD financing decreased 25.0 percent to $19.3 billion and 15.3 percent to\n$26.3 billion, respectively.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2923,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p45_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 45,
+    "text": "The simultaneous increases in principal repayments\nto IDA financing, up 5.9 percent to $9.1 billion, and IBRD financing, up\n33.9 percent to $16.5 billion, resulted in an overall decrease of 44.3 percent in\nLMICs’ net flows from World Bank Group financing in 2025.\nUnlike World Bank Group financing, net debt flows from the IMF continued to\nincrease for a second consecutive year in 2025, to $10.1 billion, after recording\nan outflow of $2.4 billion in 2023.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2923,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p45_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 45,
+    "text": "New disbursements to LMICs from the IMF\nincreased in 2025, by 4.6 percent to $30.7 billion, as the institution provided new\nfinancing to select countries undergoing balance-of-payment difficulties in 2025.\nArgentina was the largest recipient among LMICs, accounting for over half of the\nnew disbursements, at $14.4 billion, as the country continued to receive support\nfor its stabilization and growth plans.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2923,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p45_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 45,
+    "text": "The IMF provided $2.3 billion in new\ndisbursements to Pakistan in 2025, using the arrangement under the Extended\nFund Facility and the arrangement under the Resilience and Sustainability\nFacility to support the country’s efforts to achieve sustainable long-term growth.\nBangladesh, Côte d’Ivoire, Ecuador, and the Arab Republic of Egypt were among\nthe next largest recipients of IMF funding in 2025.\nFrom the borrower side, net debt inflows were highly concentrated among the\ntop 10 LMIC borrowers, excluding China. These countries are all classified\nas MICs and accounted for 88.1 percent of total net debt inflows to LMICs in\n2025, and their total debt inflows increased drastically, more than doubling\nto $373.1 billion.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2923,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p45_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 45,
+    "text": "Because China has been recording net debt outflows since\n2022, this group of countries’ collective share of the total has become more\nsubstantial, increasing from an average 26.6 percent during the 2013–20 period\nto 94.6 percent during the last three years.\nThe increase in the volume of flows and their composition varied significantly at\nthe individual country level. Brazil, India, and Türkiye accounted for 83.0 percent\nof LMICs’ net long-term debt inflows to PNG borrowers; and Argentina, Mexico,\nand Ukraine claimed 40.3 percent of the comparable flows to public sector\nborrowers.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2923,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p45_para_006",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 45,
+    "text": "Brazil and South Africa recorded the largest increases in net short-\nterm debt inflows and accounted for a 47.1 percent share of LMICs’ short-term\ndebt inflows; half of the top 10 borrowers recorded an outflow or nonmeaningful\nincrease of short-term debt in 2025 (figure 1.6).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2923,
+      "strategy": "by_paragraph",
+      "chunk_index": 6
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p46_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 46,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n22\nFigure 1.6 Composition of Debt Flows, Top 10 Borrowers (Excluding China)\n–10\n0\n10\n20\n30\n40\n50\n60\n70\nIndia Brazil Mexico TürkiyeIndonesiaArgentinaColombia Ukraine Thailand South Africa\nPublic and publicly guaranteed Private nonguaranteed Short-term\nUS$ (billion)\nSource: World Bank Group International Debt Statistics database.\nTrends in Net Transfers on External Debt, 2015–25\nLMICs’ long-term net debt transfers (disbursement minus total debt service\npayments) turned positive in 2025 after three consecutive years of negative\nvolumes.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2050,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p46_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 46,
+    "text": "Negative net transfers were recorded since 2022, during the aftermath\nof the COVID-19 pandemic, indicating that LMICs’ new disbursements were\nlower than what they paid in interest and principal payments to service their\ndebt obligations. In 2025, net debt transfers on long-term debt turned positive,\nreversing from an outflow of $118.4 billion in 2024 to an inflow of $45.4 billion\n(figure 1.7). The improvement was due to net transfers to PPG borrowers, which\nincreased more than sevenfold to $49.9 billion, after turning slightly positive in\n2024 to $6.6 billion. Conversely, net debt transfers to PNG borrowers continued\nto remain negative in 2025, albeit at an improving pace.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2050,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p46_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 46,
+    "text": "Net transfers to PNG\nborrowers remained negative for the fourth consecutive year but improved\nconsiderably, from an outflow of $125.0 billion in 2024 to an outflow of $4.5\nbillion in 2025. The substantial rise in new gross financing of 17.3 percent,\ncombined with a much slower increase of 2.3 percent in debt service payments,\nresulted in the improvement in long-term net transfers to LMICs in 2025. This\nchange is even more pronounced when China is excluded. Net transfers on long-\nterm debt to LMICs excluding China reversed from an outflow of $48.5 billion\nto an inflow of $200.5 billion. For this group of countries, new gross financing\nincreased at a much faster pace in 2025, at 25.2 percent to $1.1 trillion, and\nlong-term debt service payments decreased by 2.4 percent, to $923.8 billion.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2050,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p47_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 47,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n23\nConsequently, net transfers to PNG borrowers also turned positive in 2025,\nreversing from an outflow of $51.4 billion to an inflow of $83.1 billion. Net\ntransfers to PPG borrowers, again when China is excluded, also increased at a\nmuch faster pace, from $2.9 billion in 2024 to $117.5 billion in 2025.\nThis behavior is even more evident at the creditor composition level. In 2025,\nmultilateral institutions continued to provide positive support, a trend that has\ncontinued since 2007. Net transfers from these institutions increased 36.4 percent\nin 2025, rebounding from the downward trend recorded since 2022, following\nthe COVID-19 extraordinary financing.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2156,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p47_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 47,
+    "text": "During 2025, multilateral institutions\nprovided $21.0 billion more in financing than they received in principal and\ninterest payments. This increase was led by the European Union’s unprecedented\nsupport to Ukraine, with the organization providing $32.6 billion more to\nLMICs than it received in 2025. The World Bank Group was the second-largest\nprovider of net transfers to LMICs during the year, delivering $3.5 billion more\nthan it received.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2156,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p47_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 47,
+    "text": "Net transfers to LMICs from bilateral creditors were negative\nfor the second year in a row, though at an improving pace, with this creditor base\nreceiving $3.4 billion more than it provided in 2025.\nIn 2025, net transfers from bondholders turned positive, with this creditor base\nrecording the largest increase among other creditors, reversing from an outflow\nof $19.4 billion in 2024 to an inflow of $22.3 billion.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2156,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p47_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 47,
+    "text": "New bond issuances by\nLMICs in 2025 outpaced the cost of obligations to this creditor base, resulting\nin net inflows from bondholders after three consecutive years of outflows.\nFigure 1.7 Long-Term Net Transfers on External Debt in Low- and Middle-Income\nCountries, by Debtor Type, 2015–25\n–200\n–100\n0\n100\n200\n300\n400\nUS$ (billion)\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 202\n5\nLong-term + IMF Private nonguaranteed Public and publicly guaranteed + IMF\nSource: World Bank Group International Debt Statistics database.\nNote: IMF = International Monetary Fund.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2156,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p48_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 48,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n24\nCommercial banks and other private creditors were the other source of positive\nnet transfers to PPG borrowers during the year, at $10.1 billion, but were on a\ndownward trend from 2024, decreasing by 45.1 percent.\nWhen China is excluded, LMICs’ PPG net transfers from bondholders and from\ncommercial banks and other private creditors increased at a more pronounced\npace.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1792,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p48_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 48,
+    "text": "For LMICs excluding China, bondholders provided $70.1 billion more\nthan they received in 2025, after recording five years of outflows from LMICs;\ncommercial banks and other private creditors provided $24.1 billion more in\n2025, after recording four years of outflows (figure 1.8).\nDebt Servicing Burdens of LMICs, 2025\nTotal debt service (interest and principal) payments continued on an upward\ntrajectory for the fifth year in a row, increasing 1.9 percent in 2025 and directly\naccompanying the increase in LMICs’ debt levels in 2025. The rise was driven\nby debt service payments to private creditors, particularly to bondholders, which\nincreased 13.7 percent to $363.1 billion in 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1792,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p48_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 48,
+    "text": "Although these payments stood\nfor 28.8 percent of LMICs’ total long-term debt service payments in 2025, they\nshould be interpreted with caution because the figure also includes the principal\nFigure 1.8 Long-Term Net Transfers on Public and Publicly Guaranteed External\nDebt in Low- and Middle-Income Countries (Excluding China), by Creditor Type,\n2015–25\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 202\n5\nUS$ (billion)\n–80\n–60\n–40\n–20\n0\n20\n40\n60\n80\n100\nPPG, multilateral + IMF\nPPG, bonds\nPPG, bilateral\nPPG, commercial banks + other private creditors\nSource: World Bank Group International Debt Statistics database.\nNote: IMF = International Monetary Fund; PPG = public and publicly guaranteed.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1792,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p49_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 49,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n25\nrepayments of the debt buyback or prepayment operations funded through the\nissuance of new international bonds. When the total prepaid or buyback amount\nof $34.5 billion in principal repayments is removed from these payments, total\ndebt service of LMICs decreased by a moderate 0.7 percent in 2025.\nFrom the composition standpoint, when subtracting the buyback and prepaid\nprincipal payment amounts from total debt service payments made to\nbondholders alone, the annual percentage increase persists but is reduced to a\nmuch smaller pace of 2.9 percent, to $328.6 billion, in 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3120,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p49_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 49,
+    "text": "Conversely, total\ndebt service payments owed to all other creditors recorded a decrease in 2025,\nincluding official bilateral creditors (down 0.6 percent to $52.6 billion), official\nmultilateral creditors (down 2.6 percent to $142.4 billion), and commercial banks\nand other private creditors (down 1.5 percent to $703.8 billion).\nChina, the largest borrower among LMICs, accounted for 30.0 percent of the\ngroup’s total debt service payments, and recorded a 13.7 percent increase to $419.8\nbillion in 2025. The country’s largest share of debt service payments, and its largest\nyearly increase in payments, went to private creditors, recording a 19.2 percent\nincrease to $330.3 billion in 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3120,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p49_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 49,
+    "text": "When China is excluded, total debt service\npayments of LMICs decreased 2.5 percent to $979.0 billion in 2025. For this group,\nthe increase in total debt payments to bondholders persists, recording a 4.6 percent\nincrease to $242.3 billion in 2025, as total payments to all other creditors continued\nto record a decrease.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3120,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p49_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 49,
+    "text": "However, when the buyback and prepayment operations’\namounts are considered, debt service payments from LMICs to bondholders for this\ngroup of countries also decreased by 10.3 percent, to $207.9 billion, in 2025.\nPrincipal repayments for LMICs increased 2.7 percent in 2025, to $973.3 billion.\nFrom a creditor viewpoint, principal repayments to multilateral creditors and\ncommercial banks and other private creditors recorded decreases in 2025, those\nto official bilateral creditors increased 1.9 percent to $40.4 billion, and those\nto bondholders increased 11.9 percent to $252.5 billion in 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3120,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p49_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 49,
+    "text": "When China\nand the buyback payment operations are excluded, principal repayments to\nbondholders decreased 19.6 percent to $122.9 billion in 2025.\nAs global interest rates slowly decreased further in 2025, albeit at different\nspeeds, LMICs’ burden of total interest payments on their external debt stock\nposition remained relatively unchanged, at $425.5 billion. Interest payments\ndue to bondholders were the only creditor category experiencing an increase,\nof 17.9 percent to $110.6 billion. This increase persisted even when China’s\nsignificant borrowing from this creditor group is excluded, as interest payments\nfrom LMICs excluding China to bondholders increased 7.8 percent to 85.0 billion\nin 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3120,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p49_para_006",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 49,
+    "text": "This increase in the burden of repayment is correlated with the increase\nin borrowing from this creditor group, as international investors have returned to.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3120,
+      "strategy": "by_paragraph",
+      "chunk_index": 6
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p50_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 50,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n26\nlending to LMICs. However, their return has also come with higher compensation\nfor risk—that is, with higher interest rates.\nLMICs’ average interest rate on new external commitments from private\ncreditors remained elevated in 2025, at 5.7 percent, almost double the rate of\nthe equivalent from official creditor sources (figure 1.9). Average interest rates\nbegan to increase rapidly in 2022 to tame inflation and have remained elevated\nsince then for private creditors, whose lending tends to oscillate depending on\nmarket conditions. Improved global financial conditions have supported LMICs’\nrestoration of access to international capital markets.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2075,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p50_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 50,
+    "text": "Following the effective\nclosure of the market to high-yield issuers during 2022–23, primary market\nactivity has rebounded decisively.\nIn 2025, average interest rates on new commitments from official creditors\ndecreased 0.6 percentage point to 3.0 percent, and those charged by private\ncreditors decreased more modestly, by 0.2 percentage point to 5.7 percent.\nThe higher concessional terms offered by official creditors included longer\ngrace periods and longer maturities than those offered by private creditors.\nThe average maturity on new commitments from official creditors increased\nby one year in 2025, and the average maturity from private creditors remained\nalmost unchanged.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2075,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p50_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 50,
+    "text": "The average grace period on new commitments deteriorated\nfor private creditors, declining by 1.2 years in 2025, but it remained almost\nunchanged at 6.0 years for official creditors.\nFigure 1.9 Average Terms on New External Debt Commitments for Low- and Middle-\nIncome Countries, by Creditor Type, 2015–25\nGrace period Maturity Interest (right axis)\n0\n5\n10\n15\n20\n25\n30\n35\n40\n0\n1\n2\n3\n4\n5\n6\n7\nPercent\nGrace period and\nmaturity (years)\na. Private creditors\nPercent\n0\n1\n2\n3\n4\n5\n6\n7\n0\n5\n10\n15\n20\n25\n30\n35\n40\n20152016201720182019202020212022202320242025 2015201620172018201920202021202220242025\nGrace period and\nmaturity (years)\nb. Official creditors\nSource: World Bank Group International Debt Statistics database.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2075,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p51_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 51,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n27\nIncreased borrowing from private creditors has affected country lending groups\ndisproportionately and has led to a hardening of the average terms of new loan\ncommitments to IDA-eligible countries. These countries continued to face ever-\nincreasing average interest rates on their new commitments, with rates reaching\n8.2 percent in 2025, up 0.6 percentage point (figure 1.10). Such high average\nrates have not been seen since 1989 for this group of countries and pose a\nchallenge for their economic development.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2331,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p51_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 51,
+    "text": "By contrast, IBRD borrowers have\nseen improvements in their average terms of new commitments, with average\ninterest rates decreasing from 5.8 percent in 2024 to 5.5 percent in 2025.\nAs IDA-eligible countries continued to tap international markets to issue new\nbonds, they needed to pay even higher interest rates to attract investors to these\ninstruments. Average interest rates on external commitments of IDA-eligible countries\nto bondholders increased 1.0 percentage point in 2025 to 9.4 percent, and remained\nabove rates of IBRD borrowers, which experienced a decrease of 0.3 percentage\npoint to 5.5 percent (figure 1.11).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2331,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p51_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 51,
+    "text": "The return of international investors to IDA-\neligible countries remains uneven, concentrated in the largest borrowers, and costly,\nas international investors have increased their search for yield. IDA borrowers have\ntherefore absorbed global financial shocks disproportionately. The recovery of IDA-\neligible countries’ issuance at yields above 8 percent implies materially higher rollover\ncosts and could place further pressure on interest-to-revenue ratios and financing\nneeds.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2331,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p51_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 51,
+    "text": "For many frontier issuers, the binding constraint has consequently shifted from\nmarket access to market affordability.\nFigure 1.10 Average Terms on New External Debt Commitments for IDA-Eligible\nCountries, by Creditor Type, 2015–25\nGrace period Maturity Interest (right axis)\n0\n5\n10\n15\n20\n25\n30\n35\n40\n0\n1\n2\n3\n4\n5\n7\n9\n6\n8\nPercent\nGrace period and\nmaturity (years)\na. Private Creditors\nPercent\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n5\n10\n15\n20\n25\n30\n35\n40\n20152016201720182019202020212022202320242025 2015201620172018201920202021202220242025\nGrace period and\nmaturity (years)\nb. Official Creditors\nSource: World Bank Group International Debt Statistics database.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2331,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p52_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 52,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n28\nRecent issuances illustrate these affordability pressures. Uzbekistan’s 2028 local\ncurrency note carried a yield of 15.5 percent, partly reflecting inflation risk,\nwhereas its dollar-denominated note was priced at 7.38 percent. The Lao People’s\nDemocratic Republic’s 2030 bonds were priced at 11.25 percent, the Republic\nof Congo’s dual-tranche notes at 13.88 percent, and Kenya’s October 2025\ndual-tranche issuance at yields of 8.2 and 9.2 percent. Despite the restoration of\nmarket access, the nominal dollar costs of such borrowing substantially exceed\nthe expected growth rates of many issuing economies, implying continued\npressure on interest-to-revenue ratios. The durability of the current window also\nremains uncertain.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1453,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p52_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 52,
+    "text": "Demand has been supported by the global search for yield\nand easing US rates, factors that can reverse quickly. In addition, spreads remain\nsensitive to country-specific credit events. Box 1.5 illustrates how these trends\npersisted during the first half of 2026.\nFigure 1.11 Average Interest Rates on New External Debt Commitments for IBRD\nand IDA-Eligible Countries, by Bondholders, 2015–25\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 202 5\n0\n2\n4\n6\n8\n10\n12\n14\nPercent\nIDA-eligible countries IBRD countries\nSource: World Bank Group International Debt Statistics database.\nNote: IBRD = International Bank for Reconstruction and Development; IDA = International\nDevelopment Association.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 1453,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p53_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 53,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n29\nBox 1.5 Early 2026 Data Show No Signs of Slowdown in LMIC Bond Market\nActivity\nPreliminary data on public and publicly guaranteed (PPG) bond issuances for the\nfirst seven and a half months of 2026 show no signs of a slowdown in the appetite\nof low- and middle-income countries (LMICs) for external capital market financing.\nIn fact, more than 10 countries had already surpassed their full-year 2025 PPG\nbond totals before 2026 reached its midpoint, and the share of bond issuances\nwith maturities of 10 years or more rose as well.\nThe breadth of market access expanded notably in the first months of 2026.\nSeveral countries accessed international bond markets as PPG issuers without\nhaving done so at all in 2025.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3009,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p53_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 53,
+    "text": "For example, the Democratic Republic of Congo\nissued $1 .25 billion across two bonds at coupons of 8.75 and 9.50 percent, among\nthe highest sovereign coupon rates recorded in 2026 so far.\nFor several countries, issuance volumes through mid-August 2026 already\nexceeded their full-year 2025 totals. Angola issued $4.75 billion through mid-\nAugust 2026, more than double the $2.01 billion issued across all of 2025.\nIts weighted average coupon also rose to 9.6 percent, up from 8.6 percent in\n2025. Bosnia and Herzegovina raised $1 .8 billion through mid-August, versus\n$412 million for all of 2025. India more than doubled its full-year 2025 PPG bond\ntotal of $1 .0 billion by mid-August 2026, raising $2.5 billion.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3009,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p53_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 53,
+    "text": "Indonesia and the\nPhilippines also surpassed their respective 2025 full-year totals.\nBorrowing costs for the most vulnerable economies remained elevated and,\nin several cases, rose further. For Sub-Saharan African issuers specifically,\nthe weighted average coupon on PPG bonds rose from 8.0 percent in 2025 to\n8.8 percent through mid-August 2026, and the average maturity on new Sub-\nSaharan African PPG bonds shortened from 10.4 years in 2025 to 8.9 years, a\nsimultaneous deterioration in both the cost and the tenor of market access.\nAcross the broader LMIC universe, maturities lengthened compared with 2025,\nreflecting a shift toward longer-tenor issuances among major borrowers.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3009,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p53_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 53,
+    "text": "Bonds with\nmaturities of 10 years or more accounted for 41 .5 percent of total PPG issuance\nvolume through mid-August 2026, up from 36.1 percent across all of 2025. Several\nmajor issuers, including Brazil, Mexico, and Türkiye, issued across multiple\nmaturity tranches in a single transaction, a structure that allows borrowers to\nsimultaneously refinance near-term obligations and extend their debt profiles.\nThis maturity extension has unfolded against a backdrop of elevated global\nborrowing costs. Through mid-2026, benchmark government bond yields in major\nadvanced economies reached multiyear highs, reflecting persistent inflationary\npressures, rising public debt issuance volumes across advanced economies, and\na prolonged period of restrictive monetary policy.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3009,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p53_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 53,
+    "text": "For LMIC sovereigns, new bond\n(Box continues on next page).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 3009,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p54_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 54,
+    "text": "INTERNATIONAL DEBT REPORT 2026\n30\nTrends in Equity and Personal Remittances Flows, 2000–25\nExternal debt flows should be considered alongside other cross-border financing\nflows that shape the resources available to LMICs. These financing flows include\nequity flows—foreign direct investment (FDI) and portfolio equity (PE)—as well\nas personal remittances. Together, they provide a broader view of the changing\ncomposition of external finance and the different forms of external resources\navailable to LMICs.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2702,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p54_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 54,
+    "text": "Aggregate financial inflows, comprising debt and equity\nflows, provide an important measure of cross-border financial integration.\nWithin the equity component, FDI captures investment associated with a lasting\ninterest in an enterprise and PE captures nonresident purchases and sales of equity\nsecurities classified as portfolio investment. Personal remittances are considered\nseparately because they are transfers rather than financial account flows, but they\nissuances are priced at a spread above these advanced economy benchmarks,\nmeaning that structurally higher reference rates feed through directly into the total\ncost of new market borrowing.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2702,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p54_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 54,
+    "text": "In this environment, 2026 has seen another year of\nlarge-scale liability management operations, with new issuance used to buy back\nexisting bonds maturing in the near term, a pattern that helps smooth redemption\nprofiles but does not significantly reduce the underlying stock of debt.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2702,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p54_para_004",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 54,
+    "text": "Countries\nentering this environment with elevated debt stocks, limited fiscal space, and\nnear-term maturities face the prospect of having to refinance obligations originally\ncontracted at significantly lower rates, adding to already-strained debt service\nburdens.\nTaken together, early 2026 PPG bond data suggest that LMIC governments have\nmaintained robust access to international capital markets, even as the cost of\nthat access, particularly for lower-income and frontier borrowers, has climbed.\nThe expansion in the number of countries issuing, the pace of issuance relative\nto 2025, and maturities for select countries all point to continued, if increasingly\nexpensive, engagement with private creditors.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2702,
+      "strategy": "by_paragraph",
+      "chunk_index": 4
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p54_para_005",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 54,
+    "text": "For Sub-Saharan African issuers,\nthe combination of higher coupons and shorter maturities signals a particularly\nadverse shift in financing conditions that compounds already-constrained\nfiscal positions. These dynamics reinforce the importance of transparent debt\nmanagement and underscore the role that concessional financing from the\nWorld Bank Group plays in helping the most vulnerable governments avoid\nexcessive reliance on high-cost market borrowing.\nBox 1.5 Early 2026 Data Show No Signs of Slowdown in LMIC Bond Market\nActivity (continued).",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2702,
+      "strategy": "by_paragraph",
+      "chunk_index": 5
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p55_para_001",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 55,
+    "text": "1. ANALysIs Of ExTERNAL DEBT sTOcks AND DEBT fLOws As Of END-2025\n31\nremain an important source of external resources for LMICs. Against this broader\nbackdrop, FDI has become less dynamic since 2011, whereas personal remittances\nhave continued to expand.\nNet equity inflows to LMICs declined from $371 billion in 2010 to a historic low\nof $219 billion in 2020 before recovering to $313 billion in 2025. PE flows to\nLMICs, excluding China, turned negative, to –$43.0 billion, in 2008 during the\nrecession. Throughout the era of low interest rates, from 2009 to the onset of the\npandemic in 2020, foreign investors remained cautious and PE flows to LMICs,\nexcluding China, fell steadily until 2018 and have not recovered to the 2004 level\nof about $21.2 billion.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2037,
+      "strategy": "by_paragraph",
+      "chunk_index": 1
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p55_para_002",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 55,
+    "text": "In 2025, PE flows remained negative at –$21.0 billion\n(figure 1.12). Excluding China, nonresident investors continued to withdraw more\nequity capital from LMICs than they committed to new portfolio investments.\nFDI equity inflows to LMICs, excluding China, expanded during the early 2000s\nand peaked in 2011 in unison with personal remittances received, which includes\nboth personal transfers and employees’ compensation. Excluding China, LMICs\nreceived $316.6 billion in FDI and $313.3 billion in remittances in 2011. The\ntwo have been diverging since 2011. FDI was $333.5 billion in 2025, whereas\npersonal remittances grew to $687.1 billion, more than double its 2011 level\n(figure 1.13). From 2000 to 2011, average annual growth rates of both FDI and\npersonal remittances were both 15.3 percent.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2037,
+      "strategy": "by_paragraph",
+      "chunk_index": 2
+    }
+  },
+  {
+    "id": "worldbank-idr-2026_p55_para_003",
+    "source_id": "worldbank-idr-2026",
+    "source": "data/international_debt_report_2026.pdf",
+    "page": 55,
+    "text": "From 2012 until 2022, the average\nannual percentage growth of FDI dropped substantially, to just 1.2 percent,\nwhereas personal remittances grew on average 6.0 percent.\nFigure 1.12 Portfolio Equity to Low- and Middle-Income Countries (Excluding\nChina), 2000–25\n–60\n–40\n–20\n0\n20\n40\n60\n80\n100\n120\nUS$ (billion)\n20002001200220032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025\nSource: World Bank Group International Debt Statistics database.",
+    "metadata": {
+      "chapter": "Chapter 1",
+      "section": "External Debt Trends",
+      "char_count": 2037,
+      "strategy": "by_paragraph",
+      "chunk_index": 3
+    }
+  }
+]
